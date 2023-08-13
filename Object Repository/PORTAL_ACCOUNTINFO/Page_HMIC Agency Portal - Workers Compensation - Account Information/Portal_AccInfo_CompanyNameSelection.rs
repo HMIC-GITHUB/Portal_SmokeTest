@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_AccInfo_CompanyNameSelection</name>
+   <tag></tag>
+   <elementGuidId>9682840d-f678-40d1-ab6b-da248a5f420c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jut__GenericSelectControl__control.jut__GenericSelectControl__controlFocused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accountChoiceType-wrapper']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecb4ec23-bb97-4e86-8463-d60dce8461bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused</value>
+      <webElementGuid>337f2133-6a87-47e3-8f7e-b98d1fa8618a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company</value>
+      <webElementGuid>d5350c75-773d-4ca1-bc6d-3684a7d1fdda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accountChoiceType-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]</value>
+      <webElementGuid>9bc7f500-548b-4890-9f9e-5282bf6fecab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accountChoiceType-wrapper']/div</value>
+      <webElementGuid>89e70d67-a3a4-465f-8df4-40bfa52787c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search or Quote For'])[1]/following::div[4]</value>
+      <webElementGuid>b072cbe1-3906-43a6-9acf-b51425c553ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insured Company Name'])[1]/preceding::div[5]</value>
+      <webElementGuid>45502ed1-8a08-4d53-b7aa-3a0cbed15d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>1ec4f245-1fa0-445a-b1be-74cf8d7f118e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Company' or . = 'Company')]</value>
+      <webElementGuid>0f5d1c6e-e13d-498d-a76a-7ed71c669a77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

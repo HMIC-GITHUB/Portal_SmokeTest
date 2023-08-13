@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_Watercraft_TypeList_Type</name>
+   <tag></tag>
+   <elementGuidId>fa2ddf8c-57a8-469d-bbe1-dba728f206f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='type-wrapper']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jut__GenericSelectControl__control.jut__GenericSelectControl__controlFocused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d760f84b-83d5-4b29-a58c-36365235f2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused</value>
+      <webElementGuid>63d4ddc6-ecc2-4973-9e7e-c2a897151d48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type</value>
+      <webElementGuid>e0c1cb4a-e38b-41ed-96ae-b145cdd17bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;type-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]</value>
+      <webElementGuid>7d84922f-53b3-402b-9f53-6dd158c156ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='type-wrapper']/div</value>
+      <webElementGuid>98318a87-ce83-436b-b99e-48a591c540e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type'])[2]/following::div[4]</value>
+      <webElementGuid>7ebfbed6-45bb-46a7-a3ea-13547f7cfde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Year'])[3]/following::div[14]</value>
+      <webElementGuid>936b6c0b-bcaa-47f4-9998-19e8bc2d7e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manufacturer'])[1]/preceding::div[5]</value>
+      <webElementGuid>b5ba76b8-c1ff-4b79-a05d-0251ab08ffd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>0cc9148f-aa59-435a-854f-5d88f4cbcfd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Type' or . = 'Type')]</value>
+      <webElementGuid>d82f15fa-4427-440f-abca-88f71275f60f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_Quote_SearchSubmission</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc41926-a376-47e2-bf4a-190b27e2f4af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f179ab25-db4a-4697-ad00-650cd608a1f8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.SubmissionNumber</defaultValue>
+      <description></description>
+      <id>f179ab25-db4a-4697-ad00-650cd608a1f8</id>
+      <masked>false</masked>
+      <name>SubmissionNumber</name>
+   </variable>
+</TestCaseEntity>

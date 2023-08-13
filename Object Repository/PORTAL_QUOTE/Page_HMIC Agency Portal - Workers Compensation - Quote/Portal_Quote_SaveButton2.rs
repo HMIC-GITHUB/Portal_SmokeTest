@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Quote_SaveButton2</name>
+   <tag></tag>
+   <elementGuidId>bad235b5-831b-448a-ad46-b7a32141c416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jut__Flex__gwFlex.jut__Flex__gwGapMedium.jut__Flex__gwAlignItemsCenter.jut__Flex__gwJustifyContentEnd.jut__Flex__gwReverseWrap.jut__Flex__gwDirectionRow.jut__ModalFooter__modalFooterFlexLayout > button.dynamicButton__button.jut__Button__button.jut__Button__primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24cb6231-efbf-4ef2-96c1-8a68763e3922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3cccf449-7fd2-44ac-a4ea-c4a7e2e56d3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicButton__button jut__Button__button jut__Button__primary</value>
+      <webElementGuid>22f4a71a-b7fe-41d3-8203-e4bf066d100b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>ad95aaeb-fd3a-4a92-bfb9-e071c7af7bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>effcd0a9-0f2e-49d8-9cfb-000d85595168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;gw-branding-agencyportal&quot;]/body[@class=&quot;themeRoot dynamicRoot ReactModal__Body--open&quot;]/div[@class=&quot;ReactModalPortal&quot;]/div[@class=&quot;ReactModal__Overlay ReactModal__Overlay--after-open jut__ModalNext__overlay&quot;]/div[@class=&quot;ReactModal__Content ReactModal__Content--after-open dynamicModal__modal jut__ModalNext__modal modal&quot;]/div[@class=&quot;jut__Grid__grid jut__Grid__vgapNone jut__Grid__hgapMedium&quot;]/div[1]/div[2]/div[@class=&quot;jut__ModalFooter__modalFooter&quot;]/div[@class=&quot;jut__Flex__gwFlex jut__Flex__gwGapMedium jut__Flex__gwAlignItemsCenter jut__Flex__gwJustifyContentEnd jut__Flex__gwReverseWrap jut__Flex__gwDirectionRow jut__ModalFooter__modalFooterFlexLayout&quot;]/button[@class=&quot;dynamicButton__button jut__Button__button jut__Button__primary&quot;]</value>
+      <webElementGuid>93da5252-d245-4cea-93dc-47afcda25a9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>b7b40652-8f89-4f08-aaa9-86fa833b3bd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::button[1]</value>
+      <webElementGuid>b44f6c33-59c4-46ae-b86e-ab9a8edd68a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version Name'])[1]/following::button[2]</value>
+      <webElementGuid>827ecdbc-3fce-4600-aab2-1ba57491a262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>4d3ff463-dc0c-4405-a3aa-b6e87324abec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Save' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>a36105c6-5c08-4139-9811-25b70cbe8a1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_Watercraft_TypeList_Year</name>
+   <tag></tag>
+   <elementGuidId>e9852310-6519-40cd-80ba-24355d88dcbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Watercraft']/../../../../..//span[text()='Year']/../../..//div[contains(@class,'dynamicGenericSelectControl')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Common_Button_NextStateCov</name>
+   <tag></tag>
+   <elementGuidId>c1457396-0cc9-48ac-a0b0-91367af8d7de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#next > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e3fd2f4-c614-41d9-8920-83adc6b30504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next: State Coverages</value>
+      <webElementGuid>41140b89-3b40-4b12-a2d5-8ea89e7e1c28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/span[1]/span[1]</value>
+      <webElementGuid>beb19b58-4552-46cb-a226-0d2398d3fbc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='next']/span/span</value>
+      <webElementGuid>656693a7-36ef-48c0-8e58-55a1b0dae4f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>25976d7a-2ccb-427c-b526-50b996d000a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[4]</value>
+      <webElementGuid>c97b386c-0d52-4874-855b-2df5be90d2d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'next', '&quot;', ')/span[1]/span[1]')])[1]/preceding::span[1]</value>
+      <webElementGuid>0752b487-edc9-49c6-be6d-78586b019a1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>a1a5a2d7-96d6-438f-ab25-31ad760debaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next: State Coverages' or . = 'Next: State Coverages')]</value>
+      <webElementGuid>01bbb852-a33b-4b4b-bd54-c19f0834b174</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

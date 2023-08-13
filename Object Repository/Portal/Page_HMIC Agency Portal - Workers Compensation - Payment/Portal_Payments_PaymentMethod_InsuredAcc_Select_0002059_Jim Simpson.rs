@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_PaymentMethod_InsuredAcc_Select_0002059_Jim Simpson</name>
+   <tag></tag>
+   <elementGuidId>676910ae-f1e6-45a1-a52c-d25c6cd61567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-4-option-1']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-4-option-1 > div.PaymentSourcesControl_option__HhsGN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>73025b29-b1f0-4d20-95d5-f35b73ab2345</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PaymentSourcesControl_option__HhsGN</value>
+      <webElementGuid>26d65a42-36e0-431d-9533-0aa8aa2f4c0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0002059 - Jim Simpson Ins &amp; Investments</value>
+      <webElementGuid>c19a87bc-9585-4ece-8076-7dc150c1c911</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-4-option-1&quot;)/div[@class=&quot;PaymentSourcesControl_option__HhsGN&quot;]</value>
+      <webElementGuid>d64d438b-3c3b-4700-be26-b5028f6ee11f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-4-option-1']/div</value>
+      <webElementGuid>68007629-5824-4b32-9763-c5bdb6cedf23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Agency Account'])[2]/following::div[2]</value>
+      <webElementGuid>f6306597-287f-41e1-a43d-3626cb365ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[9]</value>
+      <webElementGuid>da94289e-7770-481d-b56a-9a9f04ce06e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0002059']/parent::*</value>
+      <webElementGuid>e13e8630-896d-43d4-ad08-7fad0e91985d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div[2]/div</value>
+      <webElementGuid>48930fd6-9ccc-4e1b-9e72-29b3657572fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0002059 - Jim Simpson Ins &amp; Investments' or . = '0002059 - Jim Simpson Ins &amp; Investments')]</value>
+      <webElementGuid>1ad3d168-23b1-4de1-af56-82182367df95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

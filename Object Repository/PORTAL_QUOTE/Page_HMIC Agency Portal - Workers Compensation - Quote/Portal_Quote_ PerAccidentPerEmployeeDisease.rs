@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Quote_ PerAccidentPerEmployeeDisease</name>
+   <tag></tag>
+   <elementGuidId>2efa8962-18b0-4f8d-8432-2aa9bdb3ae7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div[4]/div[2]/table/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(4) > div.TableSections_tableBorder__36nht > table.TableSections_tableWrap__2BCnl > tbody > tr:nth-of-type(2) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c6fe75d1-4495-4f2a-b7ae-a34194d44575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>7bf2febb-70f7-4fa8-99ab-64ed40cd690c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Limit - per Accident / per Employee Disease</value>
+      <webElementGuid>45433c3a-bccd-46fd-a919-9395c81f8972</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__3bPCs&quot;]/div[@class=&quot;QuoteWizard_container__3EESf&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__3lWO5&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_body__21TLo&quot;]/div[4]/div[@class=&quot;TableSections_tableBorder__36nht&quot;]/table[@class=&quot;TableSections_tableWrap__2BCnl&quot;]/tbody[1]/tr[2]/td[1]</value>
+      <webElementGuid>a55d175d-0b8e-42f5-a30c-5544ba20e1b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div[4]/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>3b4d1fec-cf84-4e8a-836d-1d54b29156c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[1]/following::td[1]</value>
+      <webElementGuid>7caecbe2-d86f-42eb-87cd-ddb56e84b7ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Line Coverages'])[1]/following::td[2]</value>
+      <webElementGuid>8369780f-f7c3-4adb-81e3-b468e35ee5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Limit - Disease'])[1]/preceding::td[2]</value>
+      <webElementGuid>d1cdaa44-f2e1-46f1-a4c6-0d259869bbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States Insurance'])[1]/preceding::td[4]</value>
+      <webElementGuid>60a891bc-ab42-4a7e-b6c6-12b604613b7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Limit - per Accident / per Employee Disease']/parent::*</value>
+      <webElementGuid>70fa8dd2-e681-4097-8100-9e5890e7e1a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>f1dfe1c2-c65f-4e0f-8b33-6d75636e8468</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Limit - per Accident / per Employee Disease' or . = 'Limit - per Accident / per Employee Disease')]</value>
+      <webElementGuid>a2a897b8-f784-4710-ab42-0bb1f995adf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

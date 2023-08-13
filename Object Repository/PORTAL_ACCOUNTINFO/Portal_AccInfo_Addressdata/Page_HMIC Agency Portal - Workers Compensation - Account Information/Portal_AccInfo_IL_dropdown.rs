@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_AccInfo_IL_dropdown</name>
+   <tag></tag>
+   <elementGuidId>219930c7-75e9-4a76-8e45-4ba3df591e2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='contact-srnjnsxx4d-address-k4gpirqaoxn-state-wrapper']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d3bb58ed-0dfa-4f16-ba77-87f018b51ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>7cc4707c-25ec-416e-b21f-52ff12993181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact-srnjnsxx4d-address-k4gpirqaoxn-state-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>26355156-6e0e-496f-a1c4-e6d5fbe6f49f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='contact-srnjnsxx4d-address-k4gpirqaoxn-state-wrapper']/div/div[2]</value>
+      <webElementGuid>ebfe213f-c74e-47b8-8f8d-c4f2246bda7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Illinois'])[1]/following::div[4]</value>
+      <webElementGuid>b6fd0619-1757-4d6a-ab93-fbc3437d0eb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/following::div[10]</value>
+      <webElementGuid>e5deda31-5528-4f02-be9d-b2c21c7d0fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZIP Code'])[1]/preceding::div[2]</value>
+      <webElementGuid>c5883867-82f9-45a3-80fb-1c79566501ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/preceding::div[7]</value>
+      <webElementGuid>1b61ffac-d940-4f14-844a-92d404c8255f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>0cc29112-49c3-478e-8f55-58b06cfdc33a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

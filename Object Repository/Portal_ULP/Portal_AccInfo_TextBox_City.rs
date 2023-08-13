@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_AccInfo_TextBox_City</name>
+   <tag></tag>
+   <elementGuidId>633728f7-7b41-471b-a4e7-507d35454394</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='City']/../../..//input[@id='contact-t6ieb7q1ozn-address-pt4vcvgf7rt-city']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

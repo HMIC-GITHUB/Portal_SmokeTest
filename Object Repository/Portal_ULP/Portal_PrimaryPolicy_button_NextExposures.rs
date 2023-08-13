@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PrimaryPolicy_button_NextExposures</name>
+   <tag></tag>
+   <elementGuidId>b11e5b57-13f3-4206-9856-4705880e0a22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#next > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>575aadc9-9e1a-462d-b970-cece17a6c3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next: Exposures</value>
+      <webElementGuid>ce09ede2-f788-4aad-b43c-242098911a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/span[1]/span[1]</value>
+      <webElementGuid>f3bb015d-c472-4cb9-88c8-06f7932cd9e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='next']/span/span</value>
+      <webElementGuid>54a4928a-5639-46c4-9543-bf2404ca6df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>7c4ae1b6-cd99-4511-ab00-2daa793217f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[4]</value>
+      <webElementGuid>c7e0add3-1809-4057-84ae-a20f049eb7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'next', '&quot;', ')/span[1]/span[1]')])[1]/preceding::span[1]</value>
+      <webElementGuid>011acdc2-1ffd-4565-996b-321d2edfd917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>7b1874fa-48bf-46cb-82c3-cefd0d502aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next: Exposures' or . = 'Next: Exposures')]</value>
+      <webElementGuid>0f301677-f10d-41ee-a191-624f9b75eb66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

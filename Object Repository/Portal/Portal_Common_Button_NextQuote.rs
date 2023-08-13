@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Common_Button_NextQuote</name>
+   <tag></tag>
+   <elementGuidId>3fe2e0a2-0158-478e-b6c3-fda6045ec033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#next > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50b6d0f1-0990-438b-ace8-47d3369ef69d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next: Quote</value>
+      <webElementGuid>369f4940-56b3-492a-90df-023e9cc9bad4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/span[1]/span[1]</value>
+      <webElementGuid>1b134a87-cd99-4673-8bb4-afc882759b49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='next']/span/span</value>
+      <webElementGuid>0df968ad-87aa-4db3-a145-a46824f71cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>6037e6fa-85df-4aac-a0b0-a7847f376faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[4]</value>
+      <webElementGuid>cea834aa-ff27-43a9-adaa-b9a5bd5367b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'next', '&quot;', ')/span[1]/span[1]')])[1]/preceding::span[1]</value>
+      <webElementGuid>02312be7-4fa4-4341-966d-35de573f03ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>0f408aa6-49fa-4e73-b52c-5a1d724a2040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Next: Quote' or . = 'Next: Quote')]</value>
+      <webElementGuid>b9798d97-b43d-4bce-a5d5-c22340feff12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

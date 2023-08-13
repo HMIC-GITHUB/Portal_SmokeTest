@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCov_Otherstates_Select_Listed states</name>
+   <tag></tag>
+   <elementGuidId>78e79d56-4c9a-454f-822b-f79d7e14ddbe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-19-option-2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-19-option-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9322d7f-4c8b-4b8f-bef8-65f70fe1d266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused jut__GenericSelectControl__optionSelected css-9gakcf-option</value>
+      <webElementGuid>effb0a75-5d02-4368-8b28-d9e3d161b007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-19-option-2</value>
+      <webElementGuid>e48e68ed-3efb-49ed-ba71-310ed08b1012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3ecf73ba-5013-4381-bc99-f6bdba98684e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Listed states only</value>
+      <webElementGuid>6efb009e-bd2d-4fd5-85e0-2390507a77b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-19-option-2&quot;)</value>
+      <webElementGuid>bb4bbe85-1862-41c5-88da-f0d9234b3117</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-19-option-2']</value>
+      <webElementGuid>66820edd-ed96-47ed-a707-43f3779c91b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All states except'])[1]/following::div[1]</value>
+      <webElementGuid>a4992e30-35b3-4f73-9a59-38801b67ed8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All other non-monopolistic states'])[1]/following::div[2]</value>
+      <webElementGuid>aa6ac86e-c1c0-4c44-acc5-7c3976d71df3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[1]/preceding::div[1]</value>
+      <webElementGuid>d400fc5a-610a-4175-95cc-e7ad8838ef16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[3]</value>
+      <webElementGuid>fa24c2de-b5a0-438b-b2d7-945145f3b6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-19-option-2' and (text() = 'Listed states only' or . = 'Listed states only')]</value>
+      <webElementGuid>a7135402-7ced-4fa4-b28a-c9b1d331ee8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

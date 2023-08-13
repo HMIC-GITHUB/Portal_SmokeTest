@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HMIC-ULP-PORTALS-E2E-TC014</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5289205-4b9d-40a3-b525-d20550994309</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e8e1d708-fd9b-4b40-ac21-eff91b79cd74</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Katalon Files/StateWiseExecution/ILStateExecution</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e8e1d708-fd9b-4b40-ac21-eff91b79cd74</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Address</value>
+      <variableId>306b7efe-c9eb-42a8-91b6-77bcc5dd81b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e8e1d708-fd9b-4b40-ac21-eff91b79cd74</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>ZipCode</value>
+      <variableId>721607b4-c2d2-479d-b77a-3537b9b19897</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/StateWiseExecution/ILStateExecution')</defaultValue>
+      <description></description>
+      <id>306b7efe-c9eb-42a8-91b6-77bcc5dd81b2</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Katalon Files/StateWiseExecution/ILStateExecution')</defaultValue>
+      <description></description>
+      <id>721607b4-c2d2-479d-b77a-3537b9b19897</id>
+      <masked>false</masked>
+      <name>ZipCode</name>
+   </variable>
+</TestCaseEntity>

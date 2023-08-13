@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PolicyDetails_EffectiveDate_Forwardbutton</name>
+   <tag></tag>
+   <elementGuidId>5a1dede8-b1c0-4cad-bd60-ec78e86de567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='effectiveDate_428682489']/div/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mir.mi-chevron-right.jut__DatePickerField__navigationNext</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a61b36c6-4273-4224-969a-80390b5499b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mir mi-chevron-right jut__DatePickerField__navigationNext</value>
+      <webElementGuid>e7e621d4-5ebd-4513-b1ee-b87da0a6b610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;effectiveDate_428682489&quot;)/div[@class=&quot;react-datepicker-popper&quot;]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__header react-datepicker__header--custom&quot;]/div[@class=&quot;jut__DatePickerField__dateHeader&quot;]/button[@class=&quot;mir mi-chevron-right jut__DatePickerField__navigationNext&quot;]</value>
+      <webElementGuid>83de03d4-7c6a-4e67-a91c-ea562f98e915</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='effectiveDate_428682489']/div/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>f7d673ea-5360-4860-bca2-c4a1b45be3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>d6da8853-b230-4cc7-9f38-40538b1c4a63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

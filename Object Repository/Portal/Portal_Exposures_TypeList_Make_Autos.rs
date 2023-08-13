@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_TypeList_Make_Autos</name>
+   <tag></tag>
+   <elementGuidId>cea341f0-25dd-4042-b428-0cc184cfeb43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Make']/../../..//div[contains(@class,' css-1hwfws3')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c966f8f5-5651-4980-9d87-cb2de4ba20b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>f38dd96b-5e67-4c6b-bea0-00a480abe36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;make-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>d5c2d709-1cbd-4515-93b7-24b529f01adb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='make-wrapper']/div/div[2]</value>
+      <webElementGuid>d51e55d3-8435-4553-8d9b-729c5c6fc5c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make'])[2]/following::div[1]</value>
+      <webElementGuid>ce2c226c-babf-4610-ba09-7eeb985bc853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make'])[1]/following::div[7]</value>
+      <webElementGuid>fd17469a-b52a-4efc-b7c9-8e1914909274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::div[2]</value>
+      <webElementGuid>e64730ef-29ef-468d-a8a9-d21adbb7141d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[2]/preceding::div[3]</value>
+      <webElementGuid>2360317a-ee23-4a5a-a6a5-abcfa4a51310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>191bd6ee-61c4-429a-9e52-41739ae0aa16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

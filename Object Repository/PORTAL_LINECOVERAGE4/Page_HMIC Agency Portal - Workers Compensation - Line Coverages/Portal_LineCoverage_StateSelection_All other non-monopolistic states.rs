@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCoverage_StateSelection_All other non-monopolistic states</name>
+   <tag></tag>
+   <elementGuidId>d799b39a-7a36-4752-ace7-f90b6ed48a39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-20-option-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='All states except'])[1]/preceding::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d96dd48-33bb-43be-a180-3041126a418f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>11a2e1b4-014a-4cca-9638-f1809cd44c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-20-option-0</value>
+      <webElementGuid>f6d1e736-d667-47af-a215-5afc88b68b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>5cf100aa-ff68-480b-85fe-bf496633a5e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All other non-monopolistic states</value>
+      <webElementGuid>a8e6a70c-a487-4478-a596-8ce75c3f4705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-20-option-0&quot;)</value>
+      <webElementGuid>14c53295-5bf8-491d-ac0e-282c0e57da72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-20-option-0']</value>
+      <webElementGuid>f989224b-44a4-40ce-bbfd-954c4bd4d55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'react-select-20-option-0', '&quot;', ')')])[1]/following::div[4]</value>
+      <webElementGuid>3a6cdc5c-68a6-4dda-8599-45a51efb4862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[5]</value>
+      <webElementGuid>972604be-b02a-4c39-a0ab-9a3a1411708e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All states except'])[1]/preceding::div[1]</value>
+      <webElementGuid>cdccc609-8014-4ba6-a51e-c1b0a134d4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Listed states only'])[1]/preceding::div[2]</value>
+      <webElementGuid>b477d986-7e3c-4c6b-b57f-2654e3fd7d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All other non-monopolistic states']/parent::*</value>
+      <webElementGuid>c8288d46-d65e-4392-8a88-180fd8ba7a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div</value>
+      <webElementGuid>d98262bc-59be-41d9-9b80-d007cdee90bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-20-option-0' and (text() = 'All other non-monopolistic states' or . = 'All other non-monopolistic states')]</value>
+      <webElementGuid>366ee1e7-5ff0-4225-9f1d-ac2979d6098f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

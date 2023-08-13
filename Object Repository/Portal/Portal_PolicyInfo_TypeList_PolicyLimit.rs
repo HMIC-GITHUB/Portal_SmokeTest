@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PolicyInfo_TypeList_PolicyLimit</name>
+   <tag></tag>
+   <elementGuidId>7b3c1c1b-694a-4288-8873-c5a352beccca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='policyLimit-wrapper']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a412fa0c-4c3f-4408-8f31-010f718a262e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>68bfee2b-1b8c-4e07-822a-edee8f1b10cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;policyLimit-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>f565e265-d996-48b3-aee4-315723c22c06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='policyLimit-wrapper']/div/div[2]</value>
+      <webElementGuid>4ed67623-46e4-402b-b433-9d680554cf5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$1,000,000'])[1]/following::div[1]</value>
+      <webElementGuid>e43d5baa-7a86-4109-a8b8-c6b1a38a97a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit requested'])[1]/following::div[7]</value>
+      <webElementGuid>08d50d6d-203d-4122-b7a6-6f73053dd060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residence Information'])[1]/preceding::div[2]</value>
+      <webElementGuid>86107bea-5b87-4060-b874-c48889cd0791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State'])[1]/preceding::div[2]</value>
+      <webElementGuid>0d39fa70-890b-4cb7-82a1-ef1775fcfed1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>c9b83a87-c860-4c36-8f30-008a94e33361</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

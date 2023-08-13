@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCoverage_Limit_PAPE_DropDown</name>
+   <tag></tag>
+   <elementGuidId>43cced5b-ddb6-4478-a160-4311f1c7f2ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit - per accident/per employee disease/per policy'])[1]/following::div[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ed9343d-5f18-4c29-9c38-c920e291c028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>44d8a24b-484f-45f2-8243-54d9efa05a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;termValue--cbpxp8u0dv-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>a351aad5-e002-4815-8237-1aaf7e92c775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termValue--cbpxp8u0dv-wrapper']/div/div[2]</value>
+      <webElementGuid>7d78c982-b856-4743-81e3-707086138c55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit - per accident/per employee disease/per policy'])[1]/following::div[7]</value>
+      <webElementGuid>759d2e0d-f944-411a-8eed-8c081472474c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[1]/following::div[11]</value>
+      <webElementGuid>b80d72a5-ceba-4b31-96dd-ee04780389db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States Insurance'])[1]/preceding::div[2]</value>
+      <webElementGuid>fac79a54-4cbd-470e-b24d-35e63956052e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States'])[1]/preceding::div[3]</value>
+      <webElementGuid>7d2870ae-cecc-43c9-ae7f-127954345070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>505e4650-927a-4c63-bba2-dc462c8ecc1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

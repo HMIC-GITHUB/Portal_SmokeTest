@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Quote_AllOtherNonMonopolisticStates</name>
+   <tag></tag>
+   <elementGuidId>8d7e743b-123b-4918-a1c1-693dd62a9caa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div[4]/div[2]/table/tbody/tr[5]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(5) > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d2b519ca-8401-430d-8651-b42169bf4e6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>4b7f3e77-bdc7-412a-b686-5db96c563a70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Other Non-Monopolistic States</value>
+      <webElementGuid>0b996310-d01b-49b5-a9a1-615d071f2e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__3bPCs&quot;]/div[@class=&quot;QuoteWizard_container__3EESf&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__3lWO5&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_body__21TLo&quot;]/div[4]/div[@class=&quot;TableSections_tableBorder__36nht&quot;]/table[@class=&quot;TableSections_tableWrap__2BCnl&quot;]/tbody[1]/tr[5]/td[1]</value>
+      <webElementGuid>5f1afc6d-98ad-43f1-ace9-f214b4990eff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div[4]/div[2]/table/tbody/tr[5]/td</value>
+      <webElementGuid>7bbf8662-8cf3-4d6b-baee-00d09ea5bd1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States Insurance'])[1]/following::td[1]</value>
+      <webElementGuid>b74520ca-3b14-458d-988d-4158c349b3f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy Limit - Disease'])[1]/following::td[3]</value>
+      <webElementGuid>c955feab-ba53-4d32-9162-abaaf4f28cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terrorism'])[1]/preceding::td[2]</value>
+      <webElementGuid>ed34f99c-d841-4235-8d4f-c128f99c7f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coverage'])[1]/preceding::td[3]</value>
+      <webElementGuid>5a3873f3-b110-4992-a304-7685f84e274e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Other Non-Monopolistic States']/parent::*</value>
+      <webElementGuid>3fa59ada-ae64-405a-8ea9-b3fc41b538ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td</value>
+      <webElementGuid>2cd2bf4f-ab79-4c2f-a044-9499d0dacdbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'All Other Non-Monopolistic States' or . = 'All Other Non-Monopolistic States')]</value>
+      <webElementGuid>e006a48a-54a7-44b8-a3c1-94e623922f3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

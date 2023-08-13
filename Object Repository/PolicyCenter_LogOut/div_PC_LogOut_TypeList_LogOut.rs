@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PC_LogOut_TypeList_LogOut</name>
+   <tag></tag>
+   <elementGuidId>d2389c66-5626-459c-b4a4-fcd44c506f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TabBar-LogoutTabBarLink']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5829825c-48d7-4c46-a07c-f97b6f4e3b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>1803aa13-f3e7-4690-bba6-b55cece5c204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log Out test UWSupervisor</value>
+      <webElementGuid>bfb268b0-a938-4405-96e8-1d7121707a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TabBar-LogoutTabBarLink&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>1da9516f-0321-4bd4-b8a0-4836c599f878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TabBar-LogoutTabBarLink']/div/div[2]</value>
+      <webElementGuid>84aecb29-3d79-48c4-a5ac-cfa47fa5b636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LO'])[1]/following::div[1]</value>
+      <webElementGuid>77f09314-25be-4a2c-95de-b780693f4f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reload PCFs'])[1]/following::div[5]</value>
+      <webElementGuid>424d632f-3e51-4878-b0ca-e19385f7b1dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[2]/preceding::div[5]</value>
+      <webElementGuid>c2097f19-51a1-4790-b2aa-477a880ff98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log Out test UWSupervisor']/parent::*</value>
+      <webElementGuid>8932c4dc-effb-4fe4-b856-13c2edb76dab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[6]/div/div[2]</value>
+      <webElementGuid>2c36e741-1d1a-4679-852a-26d8d732c7ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Log Out test UWSupervisor' or . = 'Log Out test UWSupervisor')]</value>
+      <webElementGuid>1356c59d-2dd6-4829-bf9e-c7ceef6425d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

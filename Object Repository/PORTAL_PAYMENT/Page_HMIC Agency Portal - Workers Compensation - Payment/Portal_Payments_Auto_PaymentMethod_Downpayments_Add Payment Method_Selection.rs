@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_Auto_PaymentMethod_Downpayments_Add Payment Method_Selection</name>
+   <tag></tag>
+   <elementGuidId>fd77a9d9-fd58-4d74-94f5-cd499719b837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9f469d6f-4715-4d5e-a31c-ab866cd143f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mir mi-chevron-right dynamicIcon__xlarge Icon_xlarge__8JRem colorAccent</value>
+      <webElementGuid>796abfaa-65c3-46de-8859-4880aa9aebd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethodCard&quot;)/section[@id=&quot;paymentDetails&quot;]/div[2]/div[@class=&quot;QuotePaymentComponent_main__sp19U&quot;]/div[@id=&quot;paymentSources&quot;]/div[@class=&quot;PaymentInstrumentButton_container__1Kb3D&quot;]/div[@class=&quot;PaymentInstrumentButton_fullWidth__1B5RR&quot;]/div[@id=&quot;pibc:639009&quot;]/div[@id=&quot;gridbc:639009&quot;]/div[3]/i[@class=&quot;mir mi-chevron-right dynamicIcon__xlarge Icon_xlarge__8JRem colorAccent&quot;]</value>
+      <webElementGuid>97bff23d-e235-4662-8669-6c4919b2f42f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='gridbc:639009']/div[3]/i)[2]</value>
+      <webElementGuid>8453626f-0009-4c16-ae99-8a532db1d5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[3]/i</value>
+      <webElementGuid>55f6ece5-a404-4207-96c9-9189e575d95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

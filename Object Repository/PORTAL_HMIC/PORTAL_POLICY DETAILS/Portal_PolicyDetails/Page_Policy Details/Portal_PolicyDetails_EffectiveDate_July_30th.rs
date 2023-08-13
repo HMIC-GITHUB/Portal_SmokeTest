@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PolicyDetails_EffectiveDate_July_30th</name>
+   <tag></tag>
+   <elementGuidId>ad382a17-56d4-4b2f-9cae-db44a50ae7b3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-datepicker__day.react-datepicker__day--030.react-datepicker__day--weekend</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Date'])[1]/preceding::div[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c390a5d2-c598-424f-820d-dfeb3850fbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-datepicker__day react-datepicker__day--030 react-datepicker__day--weekend</value>
+      <webElementGuid>93787df6-4721-4769-a63c-27761f1fc75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>day-30</value>
+      <webElementGuid>9a996878-c1cc-4e2e-ade4-d168635dc580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>8aa16030-0ce8-4149-b32e-d13a333b8478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>0fa839dd-cef3-4037-99bb-8495e7f8ad29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;effectiveDate_428682489&quot;)/div[@class=&quot;react-datepicker-popper&quot;]/div[@class=&quot;react-datepicker&quot;]/div[@class=&quot;react-datepicker__month-container&quot;]/div[@class=&quot;react-datepicker__month&quot;]/div[@class=&quot;react-datepicker__week&quot;]/div[@class=&quot;react-datepicker__day react-datepicker__day--030 react-datepicker__day--weekend&quot;]</value>
+      <webElementGuid>1ff63731-0f33-4ef0-a0d8-a57409eacb4b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='effectiveDate_428682489']/div/div/div[2]/div[2]/div[6]/div</value>
+      <webElementGuid>202b840e-798b-4ff2-abef-1758267fa3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[43]</value>
+      <webElementGuid>2e5728fa-2f6d-49fe-a52e-a3a2779f4035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::div[44]</value>
+      <webElementGuid>30f6afdb-9350-4488-ade0-ffb77e221290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::div[7]</value>
+      <webElementGuid>a1de3042-89cf-498e-80cc-85554a1380c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Date'])[1]/preceding::div[9]</value>
+      <webElementGuid>e6f58b64-7bf0-41a3-9701-861fddd4b139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[6]/div</value>
+      <webElementGuid>bcc68458-e93a-46bb-9e6e-d2b4d9a2f252</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30' or . = '30')]</value>
+      <webElementGuid>54ce6d4c-f532-4465-aba2-856026066ba2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

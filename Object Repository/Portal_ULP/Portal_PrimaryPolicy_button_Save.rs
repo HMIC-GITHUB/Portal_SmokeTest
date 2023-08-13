@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PrimaryPolicy_button_Save</name>
+   <tag></tag>
+   <elementGuidId>1d62d348-0cad-4df5-af98-b6489e851da9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@class,'dynamicButton__button jut__Button__button jut__Button__secondary colorAccent')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.dynamicButton__button.jut__Button__button.jut__Button__secondary.colorAccent > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>88c6c19e-0ec4-4293-a09a-a498b42c2063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>80b33db8-8b1b-4209-90b3-bff919d1e835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__3bPCs&quot;]/div[@class=&quot;QuoteWizard_container__3EESf&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__3lWO5&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_body__21TLo&quot;]/div[1]/div[@class=&quot;PrimaryPolicy_panelWrapper__YB748&quot;]/div[1]/div[@class=&quot;InputList_editMode__3LmDi InputList_editContainer__1i18K&quot;]/div[@class=&quot;InputList_footer__3xTo_&quot;]/div[@class=&quot;InputList_buttons__1nrg2&quot;]/button[@class=&quot;dynamicButton__button jut__Button__button jut__Button__secondary colorAccent&quot;]/span[1]/span[1]</value>
+      <webElementGuid>371da603-dc6d-44f6-aea4-b0aab00df1a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div/div/div[2]/div[2]/div/button/span/span</value>
+      <webElementGuid>4c187098-36d5-4f99-b1ad-cbb0c31d4f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Damage'])[1]/following::span[2]</value>
+      <webElementGuid>4e57fe4d-2611-478d-97c6-539ce2b51bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit Per Accident'])[2]/following::span[4]</value>
+      <webElementGuid>e8b4e36f-6b02-4eef-a7e7-73d4f7e3da8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Policy'])[1]/preceding::span[1]</value>
+      <webElementGuid>e7c4a357-a395-4f61-83ec-50b0227a2b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::span[3]</value>
+      <webElementGuid>7c157657-585d-471e-9962-519288270ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>d5f9c881-0e8b-4b41-a695-dbe24a7e0dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span/span</value>
+      <webElementGuid>38e3a4f6-79f5-4c12-9452-459bd628d212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>39d4d953-9143-409c-b6df-9040bd13f84b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Contacts_Roles_TypeList_InspectionContact</name>
+   <tag></tag>
+   <elementGuidId>9d72ffe7-4e24-4472-bb50-4929445997ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton-9-RoleType']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>65f7b4a6-9355-49a9-bde4-e3d9764633cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>37298b75-99a2-4000-9373-e35a970a7baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inspection Contact</value>
+      <webElementGuid>1a1a02d1-6d3c-48db-b824-071780c8d8bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton-9-RoleType&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>dbf105ff-27c2-435e-9cb2-3fefc0c5689a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-ContactRolesDV-ContactRolesLV_tb-AddRoleButton-9-RoleType']/div/div[2]</value>
+      <webElementGuid>98cd0b8e-8910-431d-89d3-850f8f065600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IC'])[1]/following::div[1]</value>
+      <webElementGuid>42404b8a-1ea5-430d-a69c-ef645c5f40d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='External Auditor'])[1]/following::div[5]</value>
+      <webElementGuid>2e962f61-42c9-4ca1-9b45-483436c60493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NI'])[1]/preceding::div[1]</value>
+      <webElementGuid>913f4c74-db51-4eef-a3b4-3b62519c93f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Named Insured'])[1]/preceding::div[3]</value>
+      <webElementGuid>9fbe306d-1c8e-4f4e-b20b-8585a4548fa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inspection Contact']/parent::*</value>
+      <webElementGuid>aaf30540-e855-4445-a62c-bb4e4205d16e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[10]/div/div[2]</value>
+      <webElementGuid>f6de64ec-e57c-4963-afdb-34f684141cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Inspection Contact' or . = 'Inspection Contact')]</value>
+      <webElementGuid>0cc0fd5a-5f06-41e3-8235-a90bb36772fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

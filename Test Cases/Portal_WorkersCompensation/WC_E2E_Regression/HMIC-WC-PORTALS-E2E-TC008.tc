@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>HMIC-WC-PORTALS-E2E-TC008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0912138d-ca69-49f0-902f-bb24746376d6</testCaseGuid>
+   <variable>
+      <defaultValue>'HMIC-WC-PORTALS-E2E-TC008'</defaultValue>
+      <description></description>
+      <id>d85f37b3-c692-416c-95e7-b5c2ec236010</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+   <variable>
+      <defaultValue>'testproc1'</defaultValue>
+      <description></description>
+      <id>b48ede96-e6b7-4831-be7f-0312551c0083</id>
+      <masked>false</masked>
+      <name>PC_Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Guide123Wire'</defaultValue>
+      <description></description>
+      <id>87a73cfb-8572-4385-8758-5e87507322f9</id>
+      <masked>false</masked>
+      <name>PC_Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Michigan'</defaultValue>
+      <description></description>
+      <id>2e536a29-8667-4cf3-80bc-3f37ab66e523</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+   <variable>
+      <defaultValue>'Workers Compensation'</defaultValue>
+      <description></description>
+      <id>10918d77-6fc2-461d-996a-03870f184441</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+</TestCaseEntity>

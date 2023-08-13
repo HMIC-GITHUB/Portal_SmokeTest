@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_PaymentPlans_ChooseAgencyAccount_DropDown</name>
+   <tag></tag>
+   <elementGuidId>e07a06c9-abb7-49ee-a9f4-cd3ef69c5303</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='agencySelection-wrapper']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2913e9d5-a997-46a7-a975-877fae556a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>f4502b88-160f-4ca7-b397-cbb4bf2f3b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agencySelection-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__GenericSelectControl__controlFocused&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>42e7d3ef-875f-4f4e-904b-b4710394b881</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='agencySelection-wrapper']/div/div[2]</value>
+      <webElementGuid>b52fe8d7-aae3-43c9-9118-a07d02a474eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Agency Account:'])[1]/following::div[9]</value>
+      <webElementGuid>e033b252-9121-4a8a-9f47-08e858b867ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agency Account'])[1]/following::div[10]</value>
+      <webElementGuid>9740433d-2912-461c-aeb9-3aa033b475b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose a Payment Method'])[1]/preceding::div[2]</value>
+      <webElementGuid>b172b9b1-e79a-4ab4-9de5-ed4ee5fedfc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Payment Methods'])[1]/preceding::div[3]</value>
+      <webElementGuid>0da04e6f-27db-41ad-a009-f89fa08534b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div/div[3]/div/div/div/div/div[2]</value>
+      <webElementGuid>2ec0ff64-93e6-4faf-a060-7c5c749e7d93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_WC_PolicyInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0284f3d7-b959-453b-ab1a-ed303d127f00</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1bb4409-8f78-4e0e-a015-eb6d5180f0fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a16fb21a-dd6e-4c1e-b0e9-639b2e836f39</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6d9b4a56-adec-41d3-b8b3-c48aef96d037</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Individual'</defaultValue>
+      <description></description>
+      <id>c1bb4409-8f78-4e0e-a015-eb6d5180f0fb</id>
+      <masked>false</masked>
+      <name>LegalEntity</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a16fb21a-dd6e-4c1e-b0e9-639b2e836f39</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+   <variable>
+      <defaultValue>'Commercial'</defaultValue>
+      <description></description>
+      <id>6d9b4a56-adec-41d3-b8b3-c48aef96d037</id>
+      <masked>false</masked>
+      <name>PolicyInfo_TypeOfOperation</name>
+   </variable>
+</TestCaseEntity>

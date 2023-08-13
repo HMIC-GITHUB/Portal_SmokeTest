@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_Radiobut_Insured Account</name>
+   <tag></tag>
+   <elementGuidId>5a9ed076-cc51-472e-b89f-23453e639854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dynamicRadioButton__radioButton.jut__RadioButton__radioButton.jut__RadioButton__small > label.jut__RadioButton__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentSource']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2b984242-633a-4170-a178-53ad69730c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>paymentSource_insured</value>
+      <webElementGuid>7d799087-3d34-4688-853c-9e38c234c712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f0c97333-6592-4cb3-b191-935be75816e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__RadioButton__label</value>
+      <webElementGuid>fa8249b3-c4b6-4ea3-8b3a-5ff27307b3e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insured Account</value>
+      <webElementGuid>4611b435-4acd-4b19-b5e2-baf59b00fc2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentSource&quot;)/div[@class=&quot;dynamicRadioButton__radioButton jut__RadioButton__radioButton jut__RadioButton__small&quot;]/label[@class=&quot;jut__RadioButton__label&quot;]</value>
+      <webElementGuid>bdc31e4a-87f9-4657-bbb2-5339a6ac47f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentSource']/div/label</value>
+      <webElementGuid>d1b72f8c-adc0-4a82-86bd-f9e2c047f274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[3]/following::label[1]</value>
+      <webElementGuid>2c1b5e9f-0c31-43ce-b597-7241693424cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Payment Method'])[1]/following::label[1]</value>
+      <webElementGuid>0a12608f-47ef-4d25-b3d5-8624bcbe75f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agency Account'])[1]/preceding::label[1]</value>
+      <webElementGuid>ecfe5a15-e21e-43c2-9c92-0728a47614ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/label</value>
+      <webElementGuid>3930d2ef-e1fb-4720-a2cb-355bf4e8929f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Insured Account' or . = 'Insured Account')]</value>
+      <webElementGuid>f1b84f0e-6ad8-4966-aeda-e2c34827d55f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

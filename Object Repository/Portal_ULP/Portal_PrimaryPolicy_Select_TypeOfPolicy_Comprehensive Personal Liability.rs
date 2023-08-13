@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PrimaryPolicy_Select_TypeOfPolicy_Comprehensive Personal Liability</name>
+   <tag></tag>
+   <elementGuidId>8b58cc2c-3ddf-4b5c-b34c-e8bee18fab32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[2]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-19-option-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>937883dc-0953-4aa6-b42f-9b13a4198027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>ce173934-07da-4ac4-b2c2-7ce1baf5c667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-19-option-2</value>
+      <webElementGuid>0ea0392c-9e35-44aa-b9af-0012ec3469cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>6826e22b-ec15-4f63-8ffa-755c92baed47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comprehensive Personal Liability</value>
+      <webElementGuid>17d911e8-d54e-43d9-aacf-8bff5df9a017</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-19-option-2&quot;)</value>
+      <webElementGuid>0b8c2a6e-17a1-4c01-9f08-533282184369</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-19-option-2']</value>
+      <webElementGuid>e63449c2-287a-4c03-9121-2b0e45c79a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Liability'])[2]/following::div[1]</value>
+      <webElementGuid>47cc45d0-95f7-4e64-b60f-a51b2f123f61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[2]/following::div[2]</value>
+      <webElementGuid>bfe829df-5ca4-44b4-b7c2-56f8261f50e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[2]/preceding::div[1]</value>
+      <webElementGuid>a055ddb1-7b86-4a17-bcb1-4db64c3e3169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recreational Vehicles'])[2]/preceding::div[2]</value>
+      <webElementGuid>4ba357d3-34fe-402f-998d-2b668a07058c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comprehensive Personal Liability']/parent::*</value>
+      <webElementGuid>7a6cd1d5-3e85-491f-9b00-cb1503368f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div[3]</value>
+      <webElementGuid>fc6a0ab6-26a9-4c67-9725-7474fd91d38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-19-option-2' and (text() = 'Comprehensive Personal Liability' or . = 'Comprehensive Personal Liability')]</value>
+      <webElementGuid>f75653fb-5715-4c33-98d8-510618445546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

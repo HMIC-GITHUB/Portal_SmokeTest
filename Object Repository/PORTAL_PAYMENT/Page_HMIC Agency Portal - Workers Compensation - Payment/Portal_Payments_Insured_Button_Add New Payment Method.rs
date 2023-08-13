@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_Insured_Button_Add New Payment Method</name>
+   <tag></tag>
+   <elementGuidId>216376a2-7045-4e82-9d9d-a9ec5a18269e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='addPaymentInstrument']/span/span)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>23c75d04-19ed-47d0-aa83-ed03145876fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New Payment Method</value>
+      <webElementGuid>489be232-1dde-4eb6-8f00-3e33e10efe1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethodCard&quot;)/section[@id=&quot;paymentDetails&quot;]/div[2]/div[@class=&quot;QuotePaymentComponent_main__sp19U&quot;]/div[@id=&quot;paymentSources&quot;]/div[@class=&quot;PaymentComponent_center__3tggt&quot;]/button[@id=&quot;addPaymentInstrument&quot;]/span[1]/span[1]</value>
+      <webElementGuid>435a2a29-f668-4ccf-b3a7-3db8abccad93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='addPaymentInstrument']/span/span)[2]</value>
+      <webElementGuid>4cacb342-dfc4-4731-b3cb-12129aad7226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No payment methods found'])[2]/following::span[2]</value>
+      <webElementGuid>97978fcf-7429-4a2b-9728-b072fb4f4c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saved Payment Methods'])[2]/following::span[4]</value>
+      <webElementGuid>f2a9aecf-6d7c-4b7f-aa7f-1564afe5f8d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change payment plan at renewal?'])[1]/preceding::span[2]</value>
+      <webElementGuid>211c93ab-d6b0-4ea8-a255-87d898cfd8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent Contact Information'])[1]/preceding::span[3]</value>
+      <webElementGuid>6f0b3b3c-2910-45eb-9fcd-96c3ab2feaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/span/span</value>
+      <webElementGuid>7649dac4-95cb-4341-ba1c-413542371a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add New Payment Method' or . = 'Add New Payment Method')]</value>
+      <webElementGuid>4f0e0b8f-0f9a-47ee-a170-1164dee4f211</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

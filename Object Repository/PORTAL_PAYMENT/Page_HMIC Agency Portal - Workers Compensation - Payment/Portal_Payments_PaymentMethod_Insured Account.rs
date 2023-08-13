@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_PaymentMethod_Insured Account</name>
+   <tag></tag>
+   <elementGuidId>58664f94-22ff-4eea-bb2b-c099f47378c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dynamicRadioButton__radioButton.jut__RadioButton__radioButton.jut__RadioButton__small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentSource']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9bc4145-95ab-4981-a945-b358da7fc105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicRadioButton__radioButton jut__RadioButton__radioButton jut__RadioButton__small</value>
+      <webElementGuid>fdae2083-5fa5-484a-aa26-0c2333550c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insured Account</value>
+      <webElementGuid>93b69a31-ce9e-43ae-86c9-662770df9fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentSource&quot;)/div[@class=&quot;dynamicRadioButton__radioButton jut__RadioButton__radioButton jut__RadioButton__small&quot;]</value>
+      <webElementGuid>7b622e60-d69c-4855-aac8-b4d3da92ea60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentSource']/div</value>
+      <webElementGuid>472b4252-bfb8-434e-9db4-6f646a1957e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Method'])[3]/following::div[4]</value>
+      <webElementGuid>08dfb2a0-5c1a-4df1-aed7-eae5fcea3343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Payment Method'])[1]/following::div[9]</value>
+      <webElementGuid>06182f1a-e25a-450c-999e-31dff6a7e33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agency Account'])[1]/preceding::div[1]</value>
+      <webElementGuid>ea27e8bb-c638-486c-99e4-6155bf63a79c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div</value>
+      <webElementGuid>74d3b18b-3f93-46b7-a842-f2eb2adbdb81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Insured Account' or . = 'Insured Account')]</value>
+      <webElementGuid>eb310380-8723-41c1-b82a-14ed3c90cadf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

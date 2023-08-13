@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_Button_Save_RealEstate</name>
+   <tag></tag>
+   <elementGuidId>d7f9d925-28b1-4121-bbe2-40f86e31e489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Real Estate']/../../../../..//span[text()='Save']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.dynamicButton__button.jut__Button__button.jut__Button__secondary.colorAccent > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>933de8a8-7cd0-4c54-a3ab-dba333cca774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>9a4d06a1-0f02-4931-ace3-446fb548eecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__1tjJe&quot;]/div[@class=&quot;QuoteWizard_container__120Ug&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__2Xt3l&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_body__zmDP7&quot;]/div[@class=&quot;Exposures_form__2OU5s&quot;]/div[@class=&quot;Exposures_form__2OU5s&quot;]/div[3]/div[1]/div[@class=&quot;FieldSet_container__2RI8A&quot;]/div[@class=&quot;jut__FieldComponent__fieldComponent smallOverline&quot;]/div[@class=&quot;jut__FieldComponent__contentContainer jut__FieldComponent__controls&quot;]/div[@class=&quot;jut__CheckboxField__detailVisible&quot;]/div[1]/div[@class=&quot;InputList_editMode__1bgmU InputList_editContainer__2iugP&quot;]/div[@class=&quot;InputList_footer__1ug9w&quot;]/div[@class=&quot;InputList_buttons__3rBwv&quot;]/button[@class=&quot;dynamicButton__button jut__Button__button jut__Button__secondary colorAccent&quot;]/span[1]/span[1]</value>
+      <webElementGuid>06051edb-5d78-4855-903a-da289aaa23b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[3]/div/div/div/div/div[2]/div/div[2]/div[2]/div/button[2]/span/span</value>
+      <webElementGuid>219cf1b6-ffde-4e5a-bbea-a264339e1364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
+      <webElementGuid>8bfe4fc4-b7f4-4172-98f1-cda3c95e54a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[2]/following::span[4]</value>
+      <webElementGuid>f66a04d3-67cd-4194-a98d-3f54f12062ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Other Vehicle'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb4bc6e6-d59c-4518-94b6-99b84cfbca0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watercraft'])[1]/preceding::span[4]</value>
+      <webElementGuid>a3adbf14-940d-4565-a933-6c0f05b9b8b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
+      <webElementGuid>05e6046d-3511-4804-999e-5d5cbca35ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/span</value>
+      <webElementGuid>94453d36-c6ff-48bd-9981-43e946d9a927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>6b10c16a-646b-4ddc-b74a-f538cf794e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/div[2]/div/button/span/span</value>
+      <webElementGuid>d381b521-6cde-409d-8060-928d0e6fb383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Occupancy &amp; Interest'])[1]/following::span[2]</value>
+      <webElementGuid>77213374-8194-445e-be45-b7f6c9a974b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number Of Residences'])[1]/following::span[5]</value>
+      <webElementGuid>6f91b22e-4bba-4395-8cd4-0b9f0ec79c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Location'])[1]/preceding::span[1]</value>
+      <webElementGuid>15f9c736-98bc-479e-b3b8-5512ada5767d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autos'])[1]/preceding::span[4]</value>
+      <webElementGuid>03ed3181-65e3-4beb-abf0-1c216d924103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span/span</value>
+      <webElementGuid>28a4ef73-b6ec-40ba-ad97-6885a3defa4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

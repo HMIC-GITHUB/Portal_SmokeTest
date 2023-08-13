@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Cov_Header_Coverages</name>
+   <tag></tag>
+   <elementGuidId>ec2342fa-f7a1-4d79-bff0-4ac40102c68f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.WizardPanel_header__2j4mJ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>48cee4dc-0e2f-4eba-894d-f6a33ce58cd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WizardPanel_header__2j4mJ</value>
+      <webElementGuid>8e44f1b6-d434-467d-9117-f2bf79e9b206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step 4: Coverages</value>
+      <webElementGuid>e912a3dd-f21f-4f72-972c-d88727dedbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__3bPCs&quot;]/div[@class=&quot;QuoteWizard_container__3EESf&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__3lWO5&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_headerWrapper__3znBf&quot;]/h4[@class=&quot;WizardPanel_header__2j4mJ&quot;]</value>
+      <webElementGuid>0314cada-d1c4-4d3a-970d-16d240a5a6e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div/h4</value>
+      <webElementGuid>24b4edc2-07af-4d64-af3b-752192f6bb76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bcunningham@hastingsmutual.com'])[1]/following::h4[1]</value>
+      <webElementGuid>2c348c78-582f-47ae-9b7e-9a3fc39d175b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brandy Cunningham'])[1]/following::h4[1]</value>
+      <webElementGuid>07f1c07b-57b3-4fb3-bd9b-bf74bb17417b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='State Coverages'])[1]/preceding::h4[1]</value>
+      <webElementGuid>a3c6080e-4a3f-4af1-be0d-3b7469c71d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IL - Details and Coverages'])[1]/preceding::h4[1]</value>
+      <webElementGuid>63e1a702-0b02-4b4f-bbc6-43d46b75bab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h4</value>
+      <webElementGuid>1a7109ef-6a0a-4202-b0dc-21511debbbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Step 4: Coverages' or . = 'Step 4: Coverages')]</value>
+      <webElementGuid>70ce846b-abd7-4e59-a9ab-495d020465ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

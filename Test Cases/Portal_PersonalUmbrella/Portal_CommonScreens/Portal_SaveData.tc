@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Portal_SaveData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70c885cd-248d-4b19-af4e-a4664cc2cc8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d671c603-0009-41f7-8b12-9518d71e3044</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70087866-94ce-4773-a51b-e4b7511f3d34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfba57b2-8058-4369-bafa-5f50862b5096</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d671c603-0009-41f7-8b12-9518d71e3044</id>
+      <masked>false</masked>
+      <name>State</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>70087866-94ce-4773-a51b-e4b7511f3d34</id>
+      <masked>false</masked>
+      <name>TCName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfba57b2-8058-4369-bafa-5f50862b5096</id>
+      <masked>false</masked>
+      <name>LOB</name>
+   </variable>
+</TestCaseEntity>

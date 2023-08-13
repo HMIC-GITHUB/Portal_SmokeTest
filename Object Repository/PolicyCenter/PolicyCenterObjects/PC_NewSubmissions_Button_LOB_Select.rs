@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_NewSubmissions_Button_LOB_Select</name>
+   <tag></tag>
+   <elementGuidId>ae33aa40-f747-4ea1-b1a8-47bbc019e8f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@xpath:idRelative = concat(&quot;(.//*[normalize-space(text()) and normalize-space(.)=&quot; , &quot;'&quot; , &quot;${LOB}&quot; , &quot;'&quot; , &quot;])[2]/following::div[text()=&quot; , &quot;'&quot; , &quot;Select&quot; , &quot;'&quot; , &quot;]&quot;)]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[contains(@id,'Name_Cell')]//div[text()='${LOB}']/../../../../..//div[contains(@id,'addSubmission')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text()</name>
+      <type>Main</type>
+      <value>${LOB}</value>
+      <webElementGuid>8b1b05d3-9ac3-456e-b563-7cd14c391da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Name_Cell</value>
+      <webElementGuid>7dc29cda-fe2e-400e-9453-77c37112307c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='${LOB}'])[2]/following::div[text()='Select']</value>
+      <webElementGuid>a547175c-a427-4f61-a706-d80d3fa1cade</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

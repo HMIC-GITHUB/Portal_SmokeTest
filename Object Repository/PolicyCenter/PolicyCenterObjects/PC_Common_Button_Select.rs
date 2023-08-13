@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Common_Button_Select</name>
+   <tag></tag>
+   <elementGuidId>524e09c2-3e79-4c86-af93-aa306b713655</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[text()='Select']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28aba3d7-dfc8-489b-bb89-1f46f4f90dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>81062de4-105f-4f77-bc10-c6ac4e7a856b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>b85783f2-2061-4c1d-897b-7a66ccb37f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7LocationPopup-LocationDetailDV-LocationDetailInputSet-TargetedAddressInputSet-globalAddressContainer-GlobalAddressInputSet-StdAddressIS-AddressStandardizeLV-0-select&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>6e4122f2-3897-449b-b8ee-af8de86e285b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IM7LocationPopup-LocationDetailDV-LocationDetailInputSet-TargetedAddressInputSet-globalAddressContainer-GlobalAddressInputSet-StdAddressIS-AddressStandardizeLV-0-select']/div/div[2]</value>
+      <webElementGuid>0d324640-a42a-4d4e-9090-100c9d21fe10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se'])[4]/following::div[1]</value>
+      <webElementGuid>b44974ed-7b1d-4444-bc43-cd237e2e8226</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DPV Confirmed'])[2]/following::div[11]</value>
+      <webElementGuid>f38b5968-978a-4464-bdd6-a63fb5e0ed44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicero'])[1]/preceding::div[13]</value>
+      <webElementGuid>74f58636-8267-4575-a087-8eabb2566bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN'])[1]/preceding::div[17]</value>
+      <webElementGuid>c6dd6d46-03e8-475a-a366-9f1085c66445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>3e214d6a-178a-4342-aa42-fcf0ac705f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/div/div[2]</value>
+      <webElementGuid>5758596f-8667-4bed-bfaa-eb12c35fce54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>a139f269-45a9-41ea-b440-534a897638d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

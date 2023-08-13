@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Account_TypeList_Arrow</name>
+   <tag></tag>
+   <elementGuidId>f0a983f3-0c58-47ac-a642-acfe6a0a99b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='TabBar-AccountTab']/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TabBar-AccountTab > div.gw-action--expand-button > div.gw-icon.gw-icon--expand</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7efdcabf-ac2e-488f-9226-395a27f53a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-icon gw-icon--expand</value>
+      <webElementGuid>e8560811-4e87-462c-9461-8fa2dbc0f71a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TabBar-AccountTab&quot;)/div[@class=&quot;gw-action--expand-button&quot;]/div[@class=&quot;gw-icon gw-icon--expand&quot;]</value>
+      <webElementGuid>8c56d18c-863f-4e3a-bf72-17fe8c5fcbe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='TabBar-AccountTab']/div[3]/div</value>
+      <webElementGuid>d9f2b7a1-0687-4e72-a45c-6b0311c0ca23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div[3]/div</value>
+      <webElementGuid>4b10d2d2-150e-4f60-896d-6dd082efff24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

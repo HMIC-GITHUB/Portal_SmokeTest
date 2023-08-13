@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Policydetails_Effectivedate_month_dropdown</name>
+   <tag></tag>
+   <elementGuidId>fea2b89e-65cd-4969-9ba7-974995554599</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='month-dropdown-wrapper']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec22d6fd-9d6f-41b9-9e57-9b869daa07c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>4714ad78-43ce-49e2-8656-b61cfa20ec60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;month-dropdown-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>aa6d2825-e8f3-4a53-9187-f560fcde8f38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='month-dropdown-wrapper']/div/div[2]</value>
+      <webElementGuid>8895edb8-9b8b-4135-8f23-321c3813bf19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='August'])[1]/following::div[1]</value>
+      <webElementGuid>aaabda3e-295c-40fd-8ee4-8abc17a9a277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/following::div[20]</value>
+      <webElementGuid>85148e57-d254-4a7b-8122-40eaabc8a458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::div[14]</value>
+      <webElementGuid>c5d6e260-7f10-4b33-899b-9ecd4adca798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mo'])[1]/preceding::div[15]</value>
+      <webElementGuid>bb9d230f-2bdd-429b-ba5a-f9f5e40d06ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>36f22af4-a27f-400d-a707-95fbb7e8ac23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

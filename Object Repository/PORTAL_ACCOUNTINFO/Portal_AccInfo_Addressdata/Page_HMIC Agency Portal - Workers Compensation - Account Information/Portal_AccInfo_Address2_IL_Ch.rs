@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_AccInfo_Address2_IL_Ch</name>
+   <tag></tag>
+   <elementGuidId>172f9624-33e0-4720-a2b4-f51f56d8173c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='addressTypeAhead_contact-srnjnsxx4d-address-k4gpirqaoxn-googleAddressAPI_typeaheadDropdownList']/li[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR.AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8f896933-00d1-458f-bf24-09e8a7037074</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>ef5526f0-becd-4070-af9f-4b94ea65693b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8b126a8e-3cdc-4732-8730-3fa25e76a33f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df</value>
+      <webElementGuid>8921ac0e-c6ba-4b23-9530-e1638a76fc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Illinois 43, Chicago, IL, USA</value>
+      <webElementGuid>22cf44b5-f244-47df-9c90-dff61598d1b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addressTypeAhead_contact-srnjnsxx4d-address-k4gpirqaoxn-googleAddressAPI_typeaheadDropdownList&quot;)/li[@class=&quot;AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df&quot;]</value>
+      <webElementGuid>8ac479f0-4720-447e-8725-797e03b4c492</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='addressTypeAhead_contact-srnjnsxx4d-address-k4gpirqaoxn-googleAddressAPI_typeaheadDropdownList']/li[5]</value>
+      <webElementGuid>f93befdb-e92b-4035-857d-308aee772871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Illinois Route 59, Plainfield, IL, USA'])[1]/following::li[1]</value>
+      <webElementGuid>594dbd58-2d16-4675-9b50-9294964217d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ilium Lane, Walker, MI, USA'])[1]/following::li[2]</value>
+      <webElementGuid>677ad847-9ce1-4205-9623-0801f0059357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address 2'])[1]/preceding::li[1]</value>
+      <webElementGuid>1fefff99-bb27-431d-b70a-f005a1aa26e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address 3'])[1]/preceding::li[1]</value>
+      <webElementGuid>84ce5b2c-2fd8-4919-9dbc-6de2d679155d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Illinois 43, Chicago, IL, USA']/parent::*</value>
+      <webElementGuid>5073f8ad-72b3-46ed-8e48-3313148b39c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]</value>
+      <webElementGuid>d2d2257d-dae2-4132-b7cb-bd44204b11f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Illinois 43, Chicago, IL, USA' or . = 'Illinois 43, Chicago, IL, USA')]</value>
+      <webElementGuid>4ae1ca5e-dfbf-4d23-b388-9641e2244712</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

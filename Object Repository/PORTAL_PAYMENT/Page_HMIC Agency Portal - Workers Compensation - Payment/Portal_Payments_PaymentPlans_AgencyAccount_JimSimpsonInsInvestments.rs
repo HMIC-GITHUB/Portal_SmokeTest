@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_PaymentPlans_AgencyAccount_JimSimpsonInsInvestments</name>
+   <tag></tag>
+   <elementGuidId>77af18dc-2fb1-45fa-b7e3-769481945c46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-9-option-0 > div.PaymentSourcesControl_option__HhsGN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-9-option-0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f472aec0-e62b-4f78-afc3-1bb8cf33d543</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>PaymentSourcesControl_option__HhsGN</value>
+      <webElementGuid>9b284b59-799f-49fb-9b02-b6de341c5816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0002059 - Jim Simpson Ins &amp; Investments</value>
+      <webElementGuid>d1c23740-1021-4e3b-a517-fce4f425bcc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-9-option-0&quot;)/div[@class=&quot;PaymentSourcesControl_option__HhsGN&quot;]</value>
+      <webElementGuid>87ef82b5-6a43-4cb8-8e5f-6eaa9a303d54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-9-option-0']/div</value>
+      <webElementGuid>6131a3b9-e300-48f7-a078-812acbffb112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::div[7]</value>
+      <webElementGuid>b59a962d-550a-4daa-83ab-4b77fe4d35ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::div[7]</value>
+      <webElementGuid>38fc8ab6-bb37-4569-9c3c-91054d5390da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div</value>
+      <webElementGuid>86c29d99-e995-49c6-8eaa-a0dac1ae6404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '0002059 - Jim Simpson Ins &amp; Investments' or . = '0002059 - Jim Simpson Ins &amp; Investments')]</value>
+      <webElementGuid>37035933-bbc9-4483-9495-5d9fb64b65ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

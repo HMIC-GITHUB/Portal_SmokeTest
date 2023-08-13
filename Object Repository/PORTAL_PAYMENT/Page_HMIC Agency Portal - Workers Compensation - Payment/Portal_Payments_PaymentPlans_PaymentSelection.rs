@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Payments_PaymentPlans_PaymentSelection</name>
+   <tag></tag>
+   <elementGuidId>e83bfc7f-e50f-408d-b383-e17c29fc44b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mir.mi-chevron-right.dynamicIcon__xlarge.Icon_xlarge__8JRem.colorAccent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gridbc:579001']/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3d91f451-865b-42e3-84f6-ab281c2cac68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mir mi-chevron-right dynamicIcon__xlarge Icon_xlarge__8JRem colorAccent</value>
+      <webElementGuid>4b0f5091-6263-46bd-b7a9-deb590028dad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gridbc:579001&quot;)/div[3]/i[@class=&quot;mir mi-chevron-right dynamicIcon__xlarge Icon_xlarge__8JRem colorAccent&quot;]</value>
+      <webElementGuid>cb843317-cc8f-436d-bfb0-c581703534e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gridbc:579001']/div[3]/i</value>
+      <webElementGuid>7c387c31-a714-4cc9-b0ec-74c548aa5fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>2c44a77b-8646-40c9-8777-35e4c7df86e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

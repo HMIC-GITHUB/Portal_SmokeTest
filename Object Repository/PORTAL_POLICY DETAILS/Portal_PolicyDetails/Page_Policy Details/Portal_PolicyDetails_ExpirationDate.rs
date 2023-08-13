@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PolicyDetails_ExpirationDate</name>
+   <tag></tag>
+   <elementGuidId>ff4d4f18-9506-446e-9387-be5c4dd205d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='expirationDate']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#expirationDate > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>905905ed-7c36-4c62-be1d-b7f77419afae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>July 30, 2024</value>
+      <webElementGuid>d8513c40-cb31-4088-b1c5-386400d09540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;expirationDate&quot;)/span[1]</value>
+      <webElementGuid>ae227709-12ab-40aa-9ce7-943c5e5605c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='expirationDate']/span</value>
+      <webElementGuid>fe598538-d4ab-4918-b2f0-d1f0669399b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration Date'])[1]/following::span[1]</value>
+      <webElementGuid>fb3a3efb-bce4-4d40-9ada-4c9f4cba351c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Effective Date'])[1]/following::span[2]</value>
+      <webElementGuid>a830ccc5-73cb-4879-837b-db24e6b058d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operational Details'])[1]/preceding::span[1]</value>
+      <webElementGuid>83f35801-f4fe-48d2-adbd-d690c851f160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Of Operation'])[1]/preceding::span[2]</value>
+      <webElementGuid>4e613162-493a-4ec7-9d18-1964bea47ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='July 30, 2024']/parent::*</value>
+      <webElementGuid>7bbee8b7-27b6-4cf4-bd70-27f3817fa8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>59d33bee-b6e9-4538-8fb6-45782c0c265f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'July 30, 2024' or . = 'July 30, 2024')]</value>
+      <webElementGuid>411d178f-c09b-4548-9502-3049d127b97b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

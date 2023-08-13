@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_Select_Model_Autos_AUDI_A3 2.0T SPORT PREMIUM</name>
+   <tag></tag>
+   <elementGuidId>0994173a-6e73-4af7-be4f-4a00cb183a89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='A3 2.0T SPORT PREMIUM PLUS'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-41-option-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>441dd747-fd6f-47af-b2e9-e08a0e4db95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>9fc57780-a20a-4ca4-aef2-a819bf534723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-41-option-4</value>
+      <webElementGuid>70b7f446-200e-493a-90a8-e9dc9174f525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c2079446-2916-4fd5-91bd-461fee2415a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A3 2.0T QUATTRO PREMIUM</value>
+      <webElementGuid>4bd8e41c-b387-4917-a9ea-33e538df98fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-41-option-4&quot;)</value>
+      <webElementGuid>385db8be-4286-4f77-a395-746dd02abf04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A4 2.0T PREMIUM']/parent::*</value>
+      <webElementGuid>72a73b45-b2e9-4ee9-9ae5-3c8ed3d8597b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A3 2.0T PRESTIGE'])[1]/following::div[1]</value>
+      <webElementGuid>440f0f31-8c3b-4e93-90e6-d5f68f67f178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A3 2.0T PREMIUM PLUS'])[1]/following::div[2]</value>
+      <webElementGuid>23e0ca69-4f6a-44b9-a898-9d4949b83762</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A3 2.0T QUATTRO PREMIUM PLUS'])[1]/preceding::div[1]</value>
+      <webElementGuid>ce0cc6cc-1b56-49b4-9ebf-6eccb0719c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A3 2.0T QUATTRO PRESTIGE'])[1]/preceding::div[2]</value>
+      <webElementGuid>45982468-c92b-4a0a-b98e-151c411669ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A3 2.0T QUATTRO PREMIUM']/parent::*</value>
+      <webElementGuid>ef4f4123-e786-4f59-b7eb-45b93cbc8e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[5]</value>
+      <webElementGuid>59893173-109e-4a03-b857-b867d6c8b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-41-option-4' and (text() = 'A3 2.0T QUATTRO PREMIUM' or . = 'A3 2.0T QUATTRO PREMIUM')]</value>
+      <webElementGuid>4f25e1bd-a5c8-4c1f-bbfe-74754190d88c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

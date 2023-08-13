@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_StateCoverages_MOD</name>
+   <tag></tag>
+   <elementGuidId>935c6dd5-9abb-407a-8da6-0b21f296ccc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div/div/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.mir.mi-check.jut__CheckboxField__checkboxIcon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>cc4a84f0-8b7f-4278-83aa-708d02ba011a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mir mi-check jut__CheckboxField__checkboxIcon</value>
+      <webElementGuid>04dc7919-8a13-4874-95d9-ee1d3aaa20f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>16e96a92-fda6-4035-a6ac-451f8a6dbcad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;PageContainer_standard__3bPCs&quot;]/div[@class=&quot;QuoteWizard_container__3EESf&quot;]/div[1]/div[@class=&quot;Wizard_bottomContainer__3lWO5&quot;]/div[2]/div[1]/div[@class=&quot;WizardPanel_body__21TLo&quot;]/div[1]/div[@class=&quot;ListGroupComponent_container__k5BMW undefined&quot;]/div[1]/div[@class=&quot;ListComponent_container__ypr7-&quot;]/div[@class=&quot;ClauseComponent_clause__TRgAS ClauseComponent_border__efxef&quot;]/div[@class=&quot;ClauseComponent_content__3IUq_&quot;]/div[@class=&quot;jut__FieldComponent__fieldComponent smallOverline&quot;]/div[@class=&quot;jut__FieldComponent__contentContainer jut__FieldComponent__controls&quot;]/div[@class=&quot;jut__CheckboxField__checkbox&quot;]/span[@class=&quot;jut__CheckboxField__checkboxElement&quot;]/i[@class=&quot;mir mi-check jut__CheckboxField__checkboxIcon&quot;]</value>
+      <webElementGuid>a0d48b19-87d5-4271-bed6-8f2d47a20287</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[6]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div/div[2]/div[3]/div/div/div/div/span/i</value>
+      <webElementGuid>60ccb34e-e83b-4969-8968-5359dc6a6a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/i</value>
+      <webElementGuid>9b299fd9-a805-4922-9a38-f507004e0230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

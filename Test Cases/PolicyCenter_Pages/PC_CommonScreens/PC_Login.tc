@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PC_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4376d49-f1e9-4508-a6eb-3ef970a4f6db</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d42b802a-7ebc-4b43-b235-edfc413c09ff</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e17c0762-8702-4315-8f66-8d2150acbeee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testproc1'</defaultValue>
+      <description></description>
+      <id>d42b802a-7ebc-4b43-b235-edfc413c09ff</id>
+      <masked>false</masked>
+      <name>PC_Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Guide123Wire'</defaultValue>
+      <description></description>
+      <id>e17c0762-8702-4315-8f66-8d2150acbeee</id>
+      <masked>false</masked>
+      <name>PC_Password</name>
+   </variable>
+</TestCaseEntity>

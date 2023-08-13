@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Common_Button_Add</name>
+   <tag></tag>
+   <elementGuidId>5c9dc685-57cc-42e1-8214-51ee45e965b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[. = 'Add']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d6478c5-e484-48d8-b6c1-06d559c002ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>a3a44f6b-6cf5-451f-8c24-402ece9e0c43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>1bce3a37-af6b-44ad-9a84-110dd4cc7d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IM7BuildersRiskPopup-IM7BuildersRiskPanelSet-BRClauseCovPatterns-CoverageCategoryInputSet-0-CoverageInputSet-CovPatternInputGroup-ScheduleInputSet-addLocationsTB&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>bf8a2a7c-20ed-44a8-aef0-604eee3d982b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

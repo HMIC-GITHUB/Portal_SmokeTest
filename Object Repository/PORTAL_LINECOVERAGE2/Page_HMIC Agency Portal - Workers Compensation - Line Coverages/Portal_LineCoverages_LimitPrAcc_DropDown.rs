@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCoverages_LimitPrAcc_DropDown</name>
+   <tag></tag>
+   <elementGuidId>efcc2713-f13d-42f0-846b-1d8cbe1e9472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='clause-search-wrapper']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>667a82b2-5176-4f43-8dc2-28c762cab334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>0cc75b4d-e888-481d-b7bc-7388c1d6bd8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clause-search-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control jut__LookupField__control&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>7bf34453-9106-43d0-b295-21cfda9739c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='clause-search-wrapper']/div/div[2]</value>
+      <webElementGuid>a4b60d21-c033-4925-bb8e-4b17b3fd5c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by Condition or Exclusion Name'])[1]/following::div[4]</value>
+      <webElementGuid>fdbae5be-0742-4fd2-8888-262054a783e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conditions and Exclusions'])[1]/following::div[13]</value>
+      <webElementGuid>298f1ffe-f8ec-4131-a53a-9cb84ab93c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::div[2]</value>
+      <webElementGuid>6173987c-4087-4b4c-86d0-5abe98992979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[4]</value>
+      <webElementGuid>5bb844a7-a378-4e8f-b733-2282748c093d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>e02241ff-4933-46a1-a548-63c5252366a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termValue--9oyl59txxtb-wrapper']/div/div[2]</value>
+      <webElementGuid>b341ff82-244e-48b9-9352-ec324cd21682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Describe'])[1]/following::div[4]</value>
+      <webElementGuid>7f4a6a26-1ee4-4fd7-98e0-215f0a8dd385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Excluded States'])[1]/following::div[12]</value>
+      <webElementGuid>78abfc4a-e762-41af-a992-7a4f04c68373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Optional Coverages'])[1]/preceding::div[3]</value>
+      <webElementGuid>ee8d6e99-75d5-4b68-976f-ae80427e7cc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WC 00 03 13 - Blanket Waiver of Subrogation'])[1]/preceding::div[5]</value>
+      <webElementGuid>194700d5-237c-4ce6-8903-0536d4b8961f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>4c16a63a-6cf7-499b-adb4-2e3eb1a12ddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termValue--43ct7p2l5hl-wrapper']/div/div[2]</value>
+      <webElementGuid>ae5eb6b2-24e5-4bdf-bb7d-02a13a7c3618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit - per accident/per employee disease/per policy'])[1]/following::div[7]</value>
+      <webElementGuid>a27f7510-bd53-4f33-90ca-ec1439fc2887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[1]/following::div[11]</value>
+      <webElementGuid>ac61cd04-4751-4732-af2d-cd6b9bb6e417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States Insurance'])[1]/preceding::div[2]</value>
+      <webElementGuid>193f8af5-d26c-44b5-906e-9c90e8388d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States'])[1]/preceding::div[3]</value>
+      <webElementGuid>f14579f8-2ffe-4bd6-a813-84de0225c45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>bd4480c0-32f8-4e5a-80d0-c00bc6d498c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PORTAL_AccInfo_Address_Wisconsin</name>
+   <tag></tag>
+   <elementGuidId>b092b321-5ccc-4f14-a909-60f4de1f50d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='addressTypeAhead_contact-2h4w20suhjn-address-tm8drvt5z9-googleAddressAPI_typeaheadDropdownList']/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR.AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d69e172a-b73f-4f65-a15b-e167d7137ff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>20219c75-fe71-4c4b-924e-01f4aa39a35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>065c15f0-b432-4641-b0b7-6d4d23a3dee4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df</value>
+      <webElementGuid>03e6bb8a-046e-4af5-aeef-719f5832e030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wisconsin 32, Kenosha, WI, USA</value>
+      <webElementGuid>9e0a0ab9-6488-4672-add1-8c0d1cccb5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addressTypeAhead_contact-2h4w20suhjn-address-tm8drvt5z9-googleAddressAPI_typeaheadDropdownList&quot;)/li[@class=&quot;AddressLookupTypeaheadComponent_gw-typeahead__match__BO7BR AddressLookupTypeaheadComponent_gw-typeahead__match_active__3f9Df&quot;]</value>
+      <webElementGuid>e71d104b-2665-48ed-97b9-e88805a2b1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='addressTypeAhead_contact-2h4w20suhjn-address-tm8drvt5z9-googleAddressAPI_typeaheadDropdownList']/li[2]</value>
+      <webElementGuid>2f5851d7-f434-475f-87ef-54c21026c004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wisconsin Street Southwest, Wyoming, MI, USA'])[1]/following::li[1]</value>
+      <webElementGuid>03b6561d-a74b-4b9a-b17a-d4ac57d4411e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/following::li[2]</value>
+      <webElementGuid>2f3c0a44-8689-482b-9f60-569b02f9c200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wise Rd, Greenville, MI, USA'])[1]/preceding::li[1]</value>
+      <webElementGuid>929aebe3-dc46-4224-950b-e12f2b8d6241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wisconsin 20, Mount Pleasant, WI, USA'])[1]/preceding::li[2]</value>
+      <webElementGuid>b6044db1-852d-489b-8d61-0b9585a72f12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wisconsin 32, Kenosha, WI, USA']/parent::*</value>
+      <webElementGuid>c2030313-b8f3-42da-9414-24b814280596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>1af77f7c-d95e-49a3-a257-dbadb4a99e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Wisconsin 32, Kenosha, WI, USA' or . = 'Wisconsin 32, Kenosha, WI, USA')]</value>
+      <webElementGuid>8a375a75-39e7-4677-a1eb-b2e70b056fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

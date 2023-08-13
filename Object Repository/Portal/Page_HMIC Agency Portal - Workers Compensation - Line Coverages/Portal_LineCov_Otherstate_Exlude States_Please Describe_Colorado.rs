@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCov_Otherstate_Exlude States_Please Describe_Colorado</name>
+   <tag></tag>
+   <elementGuidId>b95319b0-5c3b-447e-925e-f13fef64a2ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-21-option-5']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-21-option-5 > div.jut__LookupField__item > div.jut__LookupField__title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d7a2f734-832b-4cc8-824d-6e91884b2086</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jut__LookupField__title</value>
+      <webElementGuid>847baf9b-b8e5-4167-9ef7-35b2abaa5f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Colorado</value>
+      <webElementGuid>b1e06181-9732-4a53-afb5-355cf4570ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-21-option-5&quot;)/div[@class=&quot;jut__LookupField__item&quot;]/div[@class=&quot;jut__LookupField__title&quot;]</value>
+      <webElementGuid>58f3d4f9-8f29-4112-9293-c80527cb5c07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-21-option-5']/div/div</value>
+      <webElementGuid>ebc040dc-4c5f-4b18-93f9-4c8394644462</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[5]/following::div[3]</value>
+      <webElementGuid>8aafdf83-2a26-4956-8005-c198376f2703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='California'])[1]/following::div[4]</value>
+      <webElementGuid>26a29994-21a3-44f1-a2ef-4e5a79421ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[6]/preceding::div[1]</value>
+      <webElementGuid>83ca6225-1d21-419b-baec-3c88fa7f3f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connecticut'])[1]/preceding::div[2]</value>
+      <webElementGuid>0b950c1c-ce4b-43ed-a87b-138eea05ff55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Colorado']/parent::*</value>
+      <webElementGuid>3b1cb266-fa30-4b53-851a-80231b22f482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[6]/div/div</value>
+      <webElementGuid>0ad8582c-2c68-40d9-9097-11db0d19d297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Colorado' or . = 'Colorado')]</value>
+      <webElementGuid>47316022-b41d-4b71-abf9-33efb8842e9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

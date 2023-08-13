@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_Exposures_Select_Model_Autos_BMW_330I XDRIVE</name>
+   <tag></tag>
+   <elementGuidId>75ad14fa-d197-49c9-bbda-2019c61b1a4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[4]/following::div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-32-option-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dd3db928-feca-4dda-a995-c8b970741a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>84d57a6d-25c0-488b-8262-00c127b30ce3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-32-option-5</value>
+      <webElementGuid>0bcaa3fd-0a4f-41e6-a12c-885c7da21eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>3d306acf-390d-47e2-b527-61865fbaedf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>330I XDRIVE</value>
+      <webElementGuid>a1e58271-4de0-476b-a065-65fa5fed44fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-32-option-5&quot;)</value>
+      <webElementGuid>fd2d7f44-2f99-461d-a519-4966ddec0243</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-32-option-5']</value>
+      <webElementGuid>1c1ab41f-ae37-4281-8607-61a0c4a11290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[4]/following::div[5]</value>
+      <webElementGuid>0b17417f-ef08-4fda-aaad-bfe1eeda443d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'react-select-32-option-5', '&quot;', ')')])[1]/following::div[13]</value>
+      <webElementGuid>44a458f2-9eb6-4b7c-afa2-0e05fe46e392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I3 ELECTRIC'])[1]/preceding::div[23]</value>
+      <webElementGuid>32b94573-1f7b-40b1-b3ad-10dbd4a79618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I3 HYBRID'])[1]/preceding::div[24]</value>
+      <webElementGuid>c65bf2e8-db04-465b-9e1d-06b53687d2fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='330I XDRIVE']/parent::*</value>
+      <webElementGuid>00320b26-8e87-4084-9592-9a097df2fdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[6]</value>
+      <webElementGuid>4a54d35c-823c-4d8d-8895-464b46848882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-32-option-5' and (text() = '330I XDRIVE' or . = '330I XDRIVE')]</value>
+      <webElementGuid>5022b4df-3c9e-4ab0-8004-d2cdf1ef012e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

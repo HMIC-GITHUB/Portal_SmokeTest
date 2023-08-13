@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_EnterAccInfo_Button_Select</name>
+   <tag></tag>
+   <elementGuidId>dfd8ee0c-19c0-4abd-a180-b1372714ddb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Se'])[4]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>43dc0829-40e4-4514-aec6-cc2eef89cad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>05b56cd1-ae64-4ad9-bfab-2fa0b8e919f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>e68e1644-cb43-4361-a3d1-bb9341159131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CreateAccount-CreateAccountScreen-CreateAccountDV-AddressInputSet-globalAddressContainer-GlobalAddressInputSet-StdAddressIS-AddressStandardizeLV-0-select&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>b90c47fc-12ae-4972-b345-d7015fe4b36a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CreateAccount-CreateAccountScreen-CreateAccountDV-AddressInputSet-globalAddressContainer-GlobalAddressInputSet-StdAddressIS-AddressStandardizeLV-0-select']/div/div[2]</value>
+      <webElementGuid>c7b97e31-b947-4a79-9996-9fd5724e7f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Se'])[4]/following::div[1]</value>
+      <webElementGuid>079c546b-333e-4a86-a36f-67ffbaf04d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DPV Confirmed'])[2]/following::div[11]</value>
+      <webElementGuid>caab0053-0649-4b4d-9047-dfe71f6970ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Columbus'])[1]/preceding::div[13]</value>
+      <webElementGuid>0a21bba8-e600-4a0d-907f-e00411f276c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OH'])[1]/preceding::div[17]</value>
+      <webElementGuid>45bbaca8-e58a-46e0-9848-0fef701769e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
+      <webElementGuid>4d70cff3-cc5c-453f-8f1f-20093b3a7667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/div/div/div[2]</value>
+      <webElementGuid>4d7c2d6b-9b91-45ac-a695-cc80014e650d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>2951c5a4-5968-47f5-8e3e-ef4ad752403e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

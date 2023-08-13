@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_WC_Supplemental_Radio_No_AnyWorkPerformedUnderOrAbove</name>
+   <tag></tag>
+   <elementGuidId>ce6176d4-110b-468e-aa2c-336f59d2532e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-WC7SupplementalScreen-QuestionSetsDV-0-QuestionSetLV-2-QuestionModalInput-BooleanRadioInput_NoPost_1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb0a49ac-a42b-40cb-a89f-a63a879bfd9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-radio-wrapper</value>
+      <webElementGuid>b89d2194-d9d0-4bec-8242-51e10bd1a47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SubmissionWizard-LOBWizardStepGroup-LineWizardStepSet-WC7SupplementalScreen-QuestionSetsDV-0-QuestionSetLV-2-QuestionModalInput-BooleanRadioInput_NoPost&quot;)/div[@class=&quot;gw-vw--value&quot;]/div[@class=&quot;gw-RangeRadioValueWidget--input-group&quot;]/label[@class=&quot;gw-RangeRadioValueWidget--label&quot;]/span[@class=&quot;gw-radio-wrapper&quot;]</value>
+      <webElementGuid>31015b30-6cdb-4c16-859c-7191a0c794d5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

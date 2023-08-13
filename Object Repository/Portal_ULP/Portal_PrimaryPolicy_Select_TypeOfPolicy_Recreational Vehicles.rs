@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_PrimaryPolicy_Select_TypeOfPolicy_Recreational Vehicles</name>
+   <tag></tag>
+   <elementGuidId>ae9b3711-ef67-4370-82ce-090ae920620d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Recreational Vehicles']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-18-option-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1764fd2-2770-4edb-a95e-e37d5fb3d24a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>ea639235-a4d7-470b-9e99-d6772be923bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-18-option-4</value>
+      <webElementGuid>d9426975-2c6e-4d15-90c5-cfa706f0f0a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>9e838817-316e-4580-8e5b-db99351717ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recreational Vehicles</value>
+      <webElementGuid>0b0387ff-d565-4290-83b4-5532ea90b4f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-18-option-4&quot;)</value>
+      <webElementGuid>c875a9dd-2e70-42b3-a12e-04bdeb5c1776</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-18-option-4']</value>
+      <webElementGuid>14fdd7d6-1480-415e-b27f-22205a7aabba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[2]/following::div[1]</value>
+      <webElementGuid>525cbfe8-a796-4798-a3ca-b5efc4f78dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comprehensive Personal Liability'])[1]/following::div[2]</value>
+      <webElementGuid>a58f9e4a-c7ec-4c2c-b088-409752dcbb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watercraft'])[2]/preceding::div[1]</value>
+      <webElementGuid>6260e817-cd5a-4b57-9959-d2e5e2b1a7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other'])[1]/preceding::div[2]</value>
+      <webElementGuid>0d040707-04f9-47b9-bdba-f37335eaf805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recreational Vehicles']/parent::*</value>
+      <webElementGuid>652c05af-82f9-46b7-b6d6-60f76c19f81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div[5]</value>
+      <webElementGuid>249d0464-a3cf-4821-907d-7511ee6f37ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-18-option-4' and (text() = 'Recreational Vehicles' or . = 'Recreational Vehicles')]</value>
+      <webElementGuid>6b15df95-40c4-4b3e-878c-30baf8787fc7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

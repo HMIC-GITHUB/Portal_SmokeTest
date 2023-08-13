@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Portal_LineCov_Peraccident_Dropdown</name>
+   <tag></tag>
+   <elementGuidId>ebd2e091-5e65-44fd-a6bd-583c264b0169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='termValue--nphhhir26g-wrapper']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a2f12eb-b79c-4476-a9bb-abc53fe47666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1wy0on6</value>
+      <webElementGuid>dffb6a02-869b-491a-8dd4-5a1438100422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;termValue--nphhhir26g-wrapper&quot;)/div[@class=&quot;jut__GenericSelectControl__control&quot;]/div[@class=&quot;css-1wy0on6&quot;]</value>
+      <webElementGuid>7fb32f18-1e2c-4a74-9116-8f9eb4c3f19f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='termValue--nphhhir26g-wrapper']/div/div[2]</value>
+      <webElementGuid>b413dd52-12c1-4f43-a96c-6a292fdd644d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Limit - per accident/per employee disease/per policy'])[1]/following::div[7]</value>
+      <webElementGuid>f2397df7-1b33-4303-81d9-58bf16794208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Employer', &quot;'&quot;, 's Liability')])[1]/following::div[11]</value>
+      <webElementGuid>e259e266-8575-4e7f-8d1c-2bf3025170bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States Insurance'])[1]/preceding::div[2]</value>
+      <webElementGuid>7af1fc96-b260-4532-878e-ec3b3276eb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other States'])[1]/preceding::div[3]</value>
+      <webElementGuid>8f29bb1e-4918-496f-bbb5-18c4bd4c618a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>baf25200-1865-4e47-98cb-c7f9a30c4020</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

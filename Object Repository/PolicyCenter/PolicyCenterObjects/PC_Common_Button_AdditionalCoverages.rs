@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Common_Button_AdditionalCoverages</name>
+   <tag></tag>
+   <elementGuidId>4508f3b0-b0ac-457e-b9ea-59671dfcb593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CP7BuildingPopup-CP7BuildingCV-AdditionalCoveragesTab']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f851c7c6-2c18-42bf-9b31-3b84bf986c2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>52d02e2e-d481-466b-b075-c1ea7710f932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Additional Coverages</value>
+      <webElementGuid>bb9ac8fe-e42a-4254-a319-8f2c041ab685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CP7BuildingPopup-CP7BuildingCV-AdditionalCoveragesTab&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>3036f884-0c44-4cc4-b08f-48556a687514</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CP7BuildingPopup-CP7BuildingCV-AdditionalCoveragesTab']/div/div[2]</value>
+      <webElementGuid>ffe46f49-e67b-4ed9-adfd-aae7b8939010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AC'])[2]/following::div[1]</value>
+      <webElementGuid>64017c11-8baf-42f8-b35e-6aea7e598f49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details &amp; Coverages'])[1]/following::div[5]</value>
+      <webElementGuid>a2234095-7cc2-4258-9779-0ef1b5755033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EC'])[1]/preceding::div[1]</value>
+      <webElementGuid>a6c8ac29-6ccc-46b4-8d3b-9e1b944309da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exclusions &amp; Conditions'])[1]/preceding::div[3]</value>
+      <webElementGuid>0d94d77e-9e88-44c0-9637-912baa95d355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Additional Coverages']/parent::*</value>
+      <webElementGuid>e55ea86a-40b3-46d5-90aa-b89ccda7deae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>ad5e8fe3-e4bb-4538-ad7d-b3bee0fe5b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Additional Coverages' or . = 'Additional Coverages')]</value>
+      <webElementGuid>e61df5e7-9c52-4de7-b816-c4769f5d997f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
