@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_Contacts_Tab_Roles</name>
+   <tag></tag>
+   <elementGuidId>3fa1fce4-e156-498d-9abb-32461d02b8c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-RolesCardTab']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5875ed85-9606-4347-b7b7-73fe147365c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>db11ce5f-7d03-48eb-8bed-19f9b9f0ceaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Roles</value>
+      <webElementGuid>e3a2421b-1356-4ab6-ad4e-8c0db263e93a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;EditAccountContactPopup-ContactDetailScreen-AccountContactCV-RolesCardTab&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>5366593a-c1bb-4885-8627-1db573b38d94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EditAccountContactPopup-ContactDetailScreen-AccountContactCV-RolesCardTab']/div/div[2]</value>
+      <webElementGuid>d6343c90-9143-4a13-a60b-6d3361d4a6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ro'])[2]/following::div[1]</value>
+      <webElementGuid>c25cd82d-49f8-4775-9bc7-7c10f9648a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Detail'])[1]/following::div[5]</value>
+      <webElementGuid>9ae2f859-dcfa-498c-ae35-57ef078cd90e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ad'])[2]/preceding::div[1]</value>
+      <webElementGuid>76a3793c-7ab9-4722-a83d-07c514419653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Addresses'])[1]/preceding::div[3]</value>
+      <webElementGuid>34943ee8-8acc-4186-bce1-6b434b0e44e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div[3]/div/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>c124a747-39d2-4ed7-8322-29e324006911</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Roles' or . = 'Roles')]</value>
+      <webElementGuid>63f10b46-4afa-4040-8927-d967868aa06b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

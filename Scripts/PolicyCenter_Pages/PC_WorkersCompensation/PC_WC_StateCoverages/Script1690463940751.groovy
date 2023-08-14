@@ -18,35 +18,35 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'State Coverages')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'State Coverages')
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_StateID'), '' + RandomStringUtils.randomNumeric(
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_StateID'), '' + RandomStringUtils.randomNumeric(
         9))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_Button_AddClass'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_Button_AddClass'))
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_ClassCode'), Classcode)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_ClassCode'), Classcode)
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_ClassCode'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_ClassCode'), Keys.chord(Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_FullTimeEmployees'), '10')
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_FullTimeEmployees'), '10')
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_FullTimeEmployees'), Keys.chord(
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_FullTimeEmployees'), Keys.chord(
         Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 
 if (Exposure.equals('')) {
-    WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_Exposure'), '25000')
+    WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_Exposure'), '25000')
 } else {
-    WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_Exposure'), Exposure)
+    WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_Exposure'), Exposure)
 }
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_Exposure'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_Exposure'), Keys.chord(Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 

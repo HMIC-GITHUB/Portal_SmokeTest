@@ -19,92 +19,92 @@ import static org.junit.Assert.*
 import org.apache.commons.lang.RandomStringUtils as RandomStringUtils
 import org.openqa.selenium.Keys as Keys
 
-WebUI.waitForElementVisible(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Account_TypeList_Arrow'), 15)
+WebUI.waitForElementVisible(findTestObject('PolicyCenterObjects (1)/PC_Account_TypeList_Arrow'), 15)
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Account_TypeList_Arrow'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Account_TypeList_Arrow'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Account_TypeList_NewAccount'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Account_TypeList_NewAccount'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.setText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_FirstName'), 'Auto_FirstName')
+WebUI.setText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_TextBox_FirstName'), 'Auto_FirstName')
 
-WebUI.setText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_LastName'), 'LastName' + 
+WebUI.setText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_TextBox_LastName'), 'LastName' + 
     RandomStringUtils.randomAlphabetic(5))
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_ZIPCode'), ZipCode)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_Common_TextBox_ZIPCode'), ZipCode)
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_ZIPCode'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_Common_TextBox_ZIPCode'), Keys.chord(Keys.TAB))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_Button_Search'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_Button_Search'))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.scrollToElement(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccountInformation_Button_CreateNewAccount'), 
+WebUI.scrollToElement(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccountInformation_Button_CreateNewAccount'), 
     0)
 
-WebUI.mouseOver(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccountInformation_Button_CreateNewAccount'))
+WebUI.mouseOver(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccountInformation_Button_CreateNewAccount'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccountInformation_Button_CreateNewAccount'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccountInformation_Button_CreateNewAccount'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_TypeList_Person'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_TypeList_Person'))
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Enter Account Information')
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.setText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_Address1'), Address1)
+WebUI.setText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_TextBox_Address1'), Address1)
 
 WebUI.waitForPageLoad(15)
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_City'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_Common_TextBox_City'), Keys.chord(Keys.TAB))
 
 WebUI.waitForPageLoad(15)
 
 if (!(City.equals(''))) {
-    WebUI.clearText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_City'))
+    WebUI.clearText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_TextBox_City'))
 
     WebUI.waitForPageLoad(15)
 
-    WebUI.setText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_City'), City)
+    WebUI.setText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_TextBox_City'), City)
 
-    WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_TextBox_City'), Keys.chord(Keys.TAB))
+    WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_Common_TextBox_City'), Keys.chord(Keys.TAB))
 
     WebUI.waitForPageLoad(30)
 }
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_Button_StandardizeAddress'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_Button_StandardizeAddress'))
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_Button_StandardizeAddressSelect'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_EnterAccInfo_Button_StandardizeAddressSelect'))
 
-WebUI.selectOptionByLabel(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Dropdown_AddressType'), 'Billing', 
+WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_Common_Dropdown_AddressType'), 'Billing', 
     true)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_SearchIconButton_Agency'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_SearchIconButton_Agency'))
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_TextBox_AgencyName'), AgencyName)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_EnterAccInfo_TextBox_AgencyName'), AgencyName)
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_AgencySearch_Button_Search'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_AgencySearch_Button_Search'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_Button_Select'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_EnterAccInfo_Button_Select'))
 
-WebUI.selectOptionByLabel(findTestObject('PolicyCenter/PolicyCenterObjects/PC_EnterAccInfo_Dropdown_ProducerCode'), ProducerCode, 
+WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_EnterAccInfo_Dropdown_ProducerCode'), ProducerCode, 
     true)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_CreateAccount_Button_Update'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_CreateAccount_Button_Update'))
 
-WebUI.verifyElementPresent(findTestObject('PolicyCenter/PolicyCenterObjects/PC_AccountSummary_Label_AccountNumber'), 15)
+WebUI.verifyElementPresent(findTestObject('PolicyCenterObjects (1)/PC_AccountSummary_Label_AccountNumber'), 15)
 
 WebUI.takeFullPageScreenshot()
 
 'Saving the Account Number in parameter'
-GlobalVariable.AccountNumber = WebUI.getText(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_AccountSummary_Label_AccountNumber'))
+GlobalVariable.AccountNumber = WebUI.getText(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_AccountSummary_Label_AccountNumber'))
 
 WebUI.takeFullPageScreenshot()
 

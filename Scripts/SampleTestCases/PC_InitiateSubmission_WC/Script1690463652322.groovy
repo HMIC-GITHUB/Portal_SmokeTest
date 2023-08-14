@@ -31,51 +31,51 @@ LOB = WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_In
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_WorkersCompensation/PC_WC_PolicyInfo'), [('LOB') : LOB], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Locations')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Locations')
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_WorkersCompensation/PC_WC_Locations'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'State Coverages')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'State Coverages')
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_WorkersCompensation/PC_WC_StateCoverages'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Line Coverages')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Line Coverages')
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Supplemental')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Supplemental')
 
 WebUI.takeFullPageScreenshot()
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_WorkersCompensation/PC_WC_Supplemental'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'WC Options')
-
-WebUI.takeFullPageScreenshot()
-
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
-
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Risk Analysis')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'WC Options')
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_Button_Next'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_Button_Next'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Policy Review')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Risk Analysis')
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_Button_Next'))
+
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Policy Review')
 
 WebUI.takeFullPageScreenshot()
 

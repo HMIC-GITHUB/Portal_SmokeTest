@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_EnterAccInfo_TypeList_Person</name>
+   <tag></tag>
+   <elementGuidId>27a6022f-add4-454f-9f94-1ef674276056</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-hasDivider.gw-focus > div.gw-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='NewAccount-NewAccountScreen-NewAccountButton-NewAccount_Person']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3726cae3-20c6-4af4-9680-aa60cca8e1e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label</value>
+      <webElementGuid>1104e078-48ed-4564-ace6-d6652b44b09f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Person</value>
+      <webElementGuid>cd27546f-36fc-45ab-a79c-f1715166f6d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;NewAccount-NewAccountScreen-NewAccountButton-NewAccount_Person&quot;)/div[@class=&quot;gw-action--inner gw-hasDivider gw-focus&quot;]/div[@class=&quot;gw-label&quot;]</value>
+      <webElementGuid>bfd50f81-7170-41ba-bbb5-02af1f682fad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='NewAccount-NewAccountScreen-NewAccountButton-NewAccount_Person']/div/div[2]</value>
+      <webElementGuid>d95bf8e0-3351-4f8f-a0cd-2ffe455e45a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pe'])[1]/following::div[1]</value>
+      <webElementGuid>9641fcd6-8054-4ede-80e5-f02f3d50b127</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company'])[1]/following::div[5]</value>
+      <webElementGuid>a4f855c5-21da-4180-8eec-80d38791838d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FA'])[1]/preceding::div[1]</value>
+      <webElementGuid>d54b51f1-8403-468b-9c6b-e77963e7c884</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Address Book'])[1]/preceding::div[3]</value>
+      <webElementGuid>5b43c7ee-b65f-438f-a8ac-c4e09accc47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Person']/parent::*</value>
+      <webElementGuid>e868dc75-54f0-461b-a343-65ff4085be64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>e3177550-e855-46d2-a8ad-d35ffd30ed66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Person' or . = 'Person')]</value>
+      <webElementGuid>8bfcbc72-b239-4aa4-b02a-61c627e906a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

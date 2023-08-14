@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PC_AccSummary_Button_Actions</name>
+   <tag></tag>
+   <elementGuidId>3ba2198b-921b-440e-af23-584b9875378e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gw-action--inner.gw-focus > div.gw-label.gw-hasIcon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AccountFile-AccountFileMenuActions']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8ae6ec72-132e-4b63-b5bf-c03696ab6e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gw-label gw-hasIcon</value>
+      <webElementGuid>b3c2d78f-81fe-45ff-a924-17b903a717a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Actions</value>
+      <webElementGuid>a448e219-f2db-4dec-a954-af2b65530fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AccountFile-AccountFileMenuActions&quot;)/div[@class=&quot;gw-action--inner gw-focus&quot;]/div[@class=&quot;gw-label gw-hasIcon&quot;]</value>
+      <webElementGuid>07aa9e38-b54e-4999-aa2b-59307100b5a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='AccountFile-AccountFileMenuActions']/div/div[2]</value>
+      <webElementGuid>80ec0002-80c1-4f35-9163-b58baf7966f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log Out Test UWSupervisor'])[1]/following::div[10]</value>
+      <webElementGuid>97ef9225-ec18-4ae0-9c2b-da50ed9cbac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LO'])[1]/following::div[11]</value>
+      <webElementGuid>78030a95-a42e-4897-b545-49708398fb31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cr'])[1]/preceding::div[4]</value>
+      <webElementGuid>9a56ca44-47a3-4bc6-9ef1-e59945a805ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ctions']/parent::*</value>
+      <webElementGuid>47528229-a9ab-4b14-bcf9-11500fbd1179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]</value>
+      <webElementGuid>3fb93e0d-88ed-4ad1-8be2-479ae1a202eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Actions' or . = 'Actions')]</value>
+      <webElementGuid>03365a17-4088-4a0e-be5b-1673e22502ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

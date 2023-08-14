@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_PolicyTab_Button_Arrow'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_PolicyTab_Button_Arrow'))
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_PolicyTab_TextBox_SubNum'), SubmissionNumber)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_Common_PolicyTab_TextBox_SubNum'), SubmissionNumber)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_PolicyTab_Button_SubSearchIcon'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_PolicyTab_Button_SubSearchIcon'))
 
 WebUI.waitForPageLoad(20)
 

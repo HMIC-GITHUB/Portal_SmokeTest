@@ -17,13 +17,13 @@ import com.kms.katalon.core.testdata.TestData as TestData
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_AccSummary_Button_Actions'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_AccSummary_Button_Actions'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_AccSummary_ActionsTypeList_NewSubmission'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_AccSummary_ActionsTypeList_NewSubmission'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.selectOptionByLabel(findTestObject('PolicyCenter/PolicyCenterObjects/PC_NewSubmissions_Dropdown_DefaultBaseState'), 
+WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_NewSubmissions_Dropdown_DefaultBaseState'), 
     State, false)
 
 String lob = LOB
@@ -34,7 +34,7 @@ myTestObject = new TestObject('customObject')
 List<TestObjectProperty> properties = new ArrayList<TestObjectProperty>()
 
 if (lob.contains('Workers')) {
-    WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_NewSubmissions_Button_LOB_Select_WC'))
+    WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_NewSubmissions_Button_LOB_Select_WC'))
 
     WebUI.waitForPageLoad(10)
 
@@ -53,11 +53,11 @@ if (lob.contains('Workers')) {
     GlobalVariable.LOB = LOB
 }
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_TransactionNameAndStatus'), 'Submission (Draft)')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_TransactionNameAndStatus'), 'Submission (Draft)')
 
-GlobalVariable.SubmissionNumber = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_TransactionNumber'))
+GlobalVariable.SubmissionNumber = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_TransactionNumber'))
 
-GlobalVariable.SubmissionStatus = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_TransactionNameAndStatus'))
+GlobalVariable.SubmissionStatus = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_TransactionNameAndStatus'))
 
 WebUI.takeFullPageScreenshot()
 

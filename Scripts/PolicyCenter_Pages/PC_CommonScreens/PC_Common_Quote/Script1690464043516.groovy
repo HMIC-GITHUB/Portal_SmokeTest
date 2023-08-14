@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Common_Button_Quote'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Common_Button_Quote'))
 
-TitleName = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'))
+TitleName = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'))
 
 WebUI.waitForPageLoad(60)
 
@@ -31,7 +31,7 @@ WebUI.waitForPageLoad(120, FailureHandling.OPTIONAL)
 
 WebUI.takeFullPageScreenshot()
 
-TitleName = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'))
+TitleName = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'))
 
 if (TitleName.equals('Quote')) {
     WebUI.acceptAlert(FailureHandling.OPTIONAL)
@@ -41,7 +41,7 @@ if (TitleName.equals('Quote')) {
     WebUI.waitForPageLoad(120, FailureHandling.OPTIONAL)
 }
 
-TitleName = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'))
+TitleName = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'))
 
 if (TitleName.equals('Quote')) {
     WebUI.acceptAlert(FailureHandling.OPTIONAL)
@@ -51,15 +51,15 @@ if (TitleName.equals('Quote')) {
     WebUI.waitForPageLoad(200, FailureHandling.OPTIONAL)
 }
 
-TitleName = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'))
+TitleName = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'))
 
 if (!(TitleName.equals('Quote'))) {
 	
 	WebUI.waitForPageLoad(200, FailureHandling.OPTIONAL)
 }
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Quote')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Quote')
 
-GlobalVariable.SubmissionStatus = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_TransactionNameAndStatus'))
+GlobalVariable.SubmissionStatus = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_TransactionNameAndStatus'))
 
 WebUI.takeFullPageScreenshot()

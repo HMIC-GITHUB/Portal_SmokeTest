@@ -43,9 +43,9 @@ WebUI.click(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.waitForElementVisible(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 30)
+WebUI.waitForElementVisible(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 30)
 
-WebUI.verifyElementVisible(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'))
+WebUI.verifyElementVisible(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'))
 
 WebUI.takeFullPageScreenshot()
 

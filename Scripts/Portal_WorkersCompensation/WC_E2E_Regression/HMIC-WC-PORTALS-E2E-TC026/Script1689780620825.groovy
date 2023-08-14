@@ -249,9 +249,9 @@ GlobalVariable.SubmissionNumber = SubmissionNumber.replace('Quote No. ', '')
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_SearchSubmission'), [('SubmissionNumber') : GlobalVariable.SubmissionNumber], 
     FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_LeftPanel_RiskAnalysis'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_LeftPanel_RiskAnalysis'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Risk Analysis')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Risk Analysis')
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_RiskAnalysisScreen_ApproveUWIssues'), [:], FailureHandling.STOP_ON_FAILURE)
 

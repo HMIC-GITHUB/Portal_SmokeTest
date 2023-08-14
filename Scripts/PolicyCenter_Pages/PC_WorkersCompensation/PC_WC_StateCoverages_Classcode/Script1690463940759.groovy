@@ -17,26 +17,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_Button_AddClass'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_Button_AddClass'))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_ClassCode_N'), ClassCode1)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_ClassCode_N'), ClassCode1)
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_ClassCode_N'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_ClassCode_N'), Keys.chord(Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_FullTimeEmployees_N'), '10')
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_FullTimeEmployees_N'), '10')
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_FullTimeEmployees_N'), Keys.chord(
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_FullTimeEmployees_N'), Keys.chord(
         Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_Exposure_N'), Exposure)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_Exposure_N'), Exposure)
 
-WebUI.sendKeys(findTestObject('PolicyCenter/PolicyCenterObjects/PC_StateCoverages_TextBox_Exposure_N'), Keys.chord(Keys.TAB))
+WebUI.sendKeys(findTestObject('PolicyCenterObjects (1)/PC_StateCoverages_TextBox_Exposure_N'), Keys.chord(Keys.TAB))
 
 WebUI.waitForPageLoad(10)
 

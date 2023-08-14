@@ -20,41 +20,41 @@ import org.openqa.selenium.By as By
 import org.openqa.selenium.Keys as Keys
 import org.testng.Assert as Keys
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_LeftPanel_Contacts'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_LeftPanel_Contacts'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Contacts_Link_Edit'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Contacts_Link_Edit'))
 
-WebUI.selectOptionByLabel(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Contacts_Dropdown_PrimaryPhone'), 'Mobile', 
+WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_Contacts_Dropdown_PrimaryPhone'), 'Mobile', 
     true)
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Contacts_TextBox_MobilePhone'), '201-555-0123')
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_Contacts_TextBox_MobilePhone'), '201-555-0123')
 
 WebUI.waitForPageLoad(30)
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Tab_Roles'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Tab_Roles'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Button_AddRole'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Button_AddRole'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Roles_TypeList_AccountingContact'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Roles_TypeList_AccountingContact'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Button_AddRole'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Button_AddRole'))
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Roles_TypeList_InspectionContact'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Roles_TypeList_InspectionContact'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.click(findTestObject('Object Repository/PolicyCenter/PolicyCenterObjects/PC_Contacts_Button_Update'))
+WebUI.click(findTestObject('Object Repository/PolicyCenterObjects (1)/PC_Contacts_Button_Update'))
 
 WebUI.waitForPageLoad(30)
 
-//String TitleName = WebUI.getText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), FailureHandling.STOP_ON_FAILURE)
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Account File Contacts')
+//String TitleName = WebUI.getText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Account File Contacts')
 
 WebUI.takeFullPageScreenshot()
 

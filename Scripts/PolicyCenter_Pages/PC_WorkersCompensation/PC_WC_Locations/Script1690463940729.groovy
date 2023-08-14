@@ -17,19 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Locations')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Locations')
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_WCLoc_Link_EditLocation'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_WCLoc_Link_EditLocation'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Location Information')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Location Information')
 
-WebUI.clearText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_WCLoc_TextBox_MaxNumOfEmployees'), FailureHandling.STOP_ON_FAILURE)
+WebUI.clearText(findTestObject('PolicyCenterObjects (1)/PC_WCLoc_TextBox_MaxNumOfEmployees'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.setText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_WCLoc_TextBox_MaxNumOfEmployees'), MaxNoOfEmps)
+WebUI.setText(findTestObject('PolicyCenterObjects (1)/PC_WCLoc_TextBox_MaxNumOfEmployees'), MaxNoOfEmps)
 
-WebUI.click(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Button_OK'))
+WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_OK'))
 
-WebUI.verifyElementText(findTestObject('PolicyCenter/PolicyCenterObjects/PC_Common_Label_Title'), 'Locations')
+WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Locations')
 
 WebUI.takeFullPageScreenshot()
 
