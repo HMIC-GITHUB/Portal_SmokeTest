@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[(text() = '0005 - Farm: Nursery Employees And Drivers' or . = '0005 - Farm: Nursery Employees And Drivers')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Unknown'])[1]/preceding::div[1]</value>
       </entry>
       <entry>
          <key>CSS</key>
