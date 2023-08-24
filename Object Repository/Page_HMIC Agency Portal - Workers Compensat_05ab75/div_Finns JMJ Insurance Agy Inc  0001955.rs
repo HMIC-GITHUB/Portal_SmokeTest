@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Finns JMJ Insurance Agy Inc  0001955</name>
+   <tag></tag>
+   <elementGuidId>c4f07a88-c3a2-4df9-b70e-60039e7e4593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#react-select-7-option-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-select-7-option-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>256c1cb7-8066-4a81-a695-2fa37078ef23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
+      <webElementGuid>4f7b7db0-2b2f-4887-9349-6d843b85ade2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>react-select-7-option-2</value>
+      <webElementGuid>658b36da-a7dc-4e29-8b28-1060d76a123e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>f3b18af7-711d-4f33-931a-37e7ee02ea19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Finn's JM&amp;J Insurance Agy Inc  0001955</value>
+      <webElementGuid>341a4b9d-cf77-4296-bb6e-4ed0172cb145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-select-7-option-2&quot;)</value>
+      <webElementGuid>14fdb817-5ee3-4e2b-891e-37e863b75781</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='react-select-7-option-2']</value>
+      <webElementGuid>cbf887ff-6025-40fb-940d-d5b90ae3f1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Finn', &quot;'&quot;, 's JM&amp;J Insurance Agy Inc 0001254')])[1]/following::div[1]</value>
+      <webElementGuid>a7262e75-ed69-4fd8-ab9c-ad25d4fcae33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[3]/following::div[2]</value>
+      <webElementGuid>592df36f-af0d-492f-83ad-127fabb98ceb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[3]</value>
+      <webElementGuid>b0c180f1-996e-47e1-a2b2-068c3cfd474d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'react-select-7-option-2' and (text() = concat(&quot;Finn&quot; , &quot;'&quot; , &quot;s JM&amp;J Insurance Agy Inc  0001955&quot;) or . = concat(&quot;Finn&quot; , &quot;'&quot; , &quot;s JM&amp;J Insurance Agy Inc  0001955&quot;))]</value>
+      <webElementGuid>9609bed1-430e-494c-8c69-634a10751879</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

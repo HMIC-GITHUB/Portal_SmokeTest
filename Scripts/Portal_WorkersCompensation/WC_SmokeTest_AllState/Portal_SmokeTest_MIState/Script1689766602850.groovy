@@ -77,13 +77,36 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_TypeList_1st
 
 WebUI.waitForPageLoad(10)
 
-WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'))
+String strenv = GlobalVariable.PortalURL
 
-WebUI.click(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'))
+if (strenv.contains('dev4')) {
+    WebUI.comment('Dev4')
 
-WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode'))
+    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectAgencyCode'))
 
-WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode'))
+    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectAgencyCode'))
+
+    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_AgencyCode'), 
+        FailureHandling.STOP_ON_FAILURE)
+
+    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_AgencyCode'), FailureHandling.STOP_ON_FAILURE)
+
+    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectProducerCode'))
+
+    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectProducerCode'))
+
+    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_ProducerCode'))
+
+    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_ProducerCode'))
+} else {
+    WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'))
+
+    WebUI.click(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'))
+
+    WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode'))
+
+    WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_TypeList_2059HouseCode'))
+}
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_Button_AddAccount'))
 

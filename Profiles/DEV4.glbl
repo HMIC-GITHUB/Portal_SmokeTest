@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GlobalVariableEntities>
    <description></description>
-   <name>QA4</name>
+   <name>DEV4</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://qaservices.hastingsmutual.com/Authentication/Login?ReturnUrl=https://policycenter.qa4.hastingsmutual.com/pc/service/ssosaml'</initValue>
+      <initValue>'https://qaservices.hastingsmutual.com/Authentication/Login?ReturnUrl=https://policycenter.dev4.hastingsmutual.com/pc/service/ssosaml'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'testproc3'</initValue>
+      <initValue>'testuwsup3'</initValue>
       <name>PC_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -61,12 +61,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://agencyportal.qa4.hastingsmutual.com/Accounts'</initValue>
+      <initValue>'https://agencyportal.dev4.hastingsmutual.com/Accounts'</initValue>
       <name>PortalURL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'jacob2059'</initValue>
+      <initValue>'testagentall'</initValue>
       <name>Portal_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

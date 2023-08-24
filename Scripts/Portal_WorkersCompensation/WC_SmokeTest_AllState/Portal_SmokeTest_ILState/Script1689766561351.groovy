@@ -293,6 +293,8 @@ GlobalVariable.PolicyNumber = polNum.replace('Policy No. ', '')
 
 WebUI.comment('Policy issued successfully in Portal')
 
+WebUI.comment(GlobalVariable.PolicyNumber)
+
 WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Portal/Portal_UserDropdown_Button_Arrow'))
