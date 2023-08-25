@@ -6,7 +6,7 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://qaservices.hastingsmutual.com/Authentication/Login?ReturnUrl=https://policycenter.dev4.hastingsmutual.com/pc/service/ssosaml'</initValue>
+      <initValue>'https://services.dev4.hastingsmutual.com/Authentication/Login?ReturnUrl=https://policycenter.dev4.hastingsmutual.com/pc/service/ssosaml'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

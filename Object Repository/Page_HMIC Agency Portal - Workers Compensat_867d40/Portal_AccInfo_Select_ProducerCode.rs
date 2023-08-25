@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_ProducerCode</name>
+   <name>Portal_AccInfo_Select_ProducerCode</name>
    <tag></tag>
    <elementGuidId>bf7c70e9-8df7-4c93-93c3-d678b8781f50</elementGuidId>
    <selectorCollection>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='react-select-8-option-2']</value>
+         <value>//*/text()[normalize-space(.)='0005-RoFinn_ 012540005RobertFinn']/parent::*</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>05345357-7d33-4f62-9639-24d4b393580d</webElementGuid>
+      <webElementGuid>a1d1e5a6-d15c-4993-a726-567a50951b52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>dynamicGenericSelectControl__option jut__GenericSelectControl__option jut__GenericSelectControl__optionFocused css-1n7v3ny-option</value>
-      <webElementGuid>a8bf66d7-dbef-4b80-af4e-375d8e58b3b3</webElementGuid>
+      <webElementGuid>d59b0517-1897-4a42-b4e2-4fc071bd64a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-5-option-1</value>
-      <webElementGuid>086f442d-4ce3-4e63-9d4a-eb03c0f0f2e7</webElementGuid>
+      <webElementGuid>ac5870d6-aea5-477e-a2bc-aab5a1cc5973</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>018d13f8-ed91-4b2f-83a5-50e182fc2748</webElementGuid>
+      <webElementGuid>97048d03-00c4-4f64-a909-1181fc01b4e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Finn's JM&amp;J Insurance Agy Inc  0001955</value>
-      <webElementGuid>4de79477-b9a2-4312-bdca-c8386c438721</webElementGuid>
+      <webElementGuid>cd129b5f-8d55-4cd6-8b1f-a0d806e11557</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,46 +62,27 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;react-select-5-option-1&quot;)</value>
-      <webElementGuid>52658801-b8d5-453e-8bce-12f62dd7d771</webElementGuid>
+      <webElementGuid>0c791833-2d1c-4e6c-8022-a742d12993f4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='react-select-5-option-1']</value>
-      <webElementGuid>62d4c66b-670b-49a8-8080-dceeee21004e</webElementGuid>
+      <value>//div[@id = 'react-select-8-option-5' and (text() = '0005-RoFinn_ 012540005RobertFinn' or . = '0005-RoFinn_ 012540005RobertFinn')]</value>
+      <webElementGuid>20c9acd6-6b72-42a2-85f7-556d9bcda069</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Finn', &quot;'&quot;, 's JM&amp;J Insurance Agy Inc 0001254')])[2]/following::div[1]</value>
-      <webElementGuid>7929438b-962a-4d24-9489-d4da4b8a74ff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please Select'])[2]/following::div[5]</value>
+      <webElementGuid>69b3767b-1518-43b8-aef1-0ede5eadb1ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'react-select-5-option-1', '&quot;', ')')])[1]/following::div[6]</value>
-      <webElementGuid>3d54a3c6-b2e3-4951-98f5-0b9e6792d792</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[6]/div/div/div[2]</value>
-      <webElementGuid>909bf909-14bd-4364-ab7f-ddefe1b89e9a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//div[@id = 'react-select-5-option-1' and (text() = concat(&quot;Finn&quot; , &quot;'&quot; , &quot;s JM&amp;J Insurance Agy Inc  0001955&quot;) or . = concat(&quot;Finn&quot; , &quot;'&quot; , &quot;s JM&amp;J Insurance Agy Inc  0001955&quot;))]</value>
-      <webElementGuid>3014fa83-78ab-417b-9715-7b58b730bfa0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'react-select-8-option-5', '&quot;', ')')])[1]/following::div[9]</value>
+      <webElementGuid>7ffba427-f7d7-46f0-a9be-bc96241dcb14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

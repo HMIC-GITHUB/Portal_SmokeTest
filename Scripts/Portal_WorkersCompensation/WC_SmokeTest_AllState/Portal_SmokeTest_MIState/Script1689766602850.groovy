@@ -82,22 +82,27 @@ String strenv = GlobalVariable.PortalURL
 if (strenv.contains('dev4')) {
     WebUI.comment('Dev4')
 
-    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectAgencyCode'))
+    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Dropdown_AgencyCode'))
 
-    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectAgencyCode'))
+    WebUI.waitForPageLoad(5)
 
-    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_AgencyCode'), 
+    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Dropdown_AgencyCode'))
+
+    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Select_AgencyCode'), 
         FailureHandling.STOP_ON_FAILURE)
 
-    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_AgencyCode'), FailureHandling.STOP_ON_FAILURE)
+    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Select_AgencyCode'), 
+        FailureHandling.STOP_ON_FAILURE)
 
-    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectProducerCode'))
+    WebUI.mouseOver(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Dropdown_ProducerCode'))
 
-    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/div_SelectProducerCode'))
+    WebUI.waitForPageLoad(5)
 
-    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_ProducerCode'))
+    WebUI.click(findTestObject('Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Dropdown_ProducerCode'))
 
-    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/div_ProducerCode'))
+    WebUI.mouseOver(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Select_ProducerCode'))
+
+    WebUI.click(findTestObject('Object Repository/Page_HMIC Agency Portal - Workers Compensat_867d40/Portal_AccInfo_Select_ProducerCode'))
 } else {
     WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'))
 
@@ -168,11 +173,9 @@ WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Cov_Head
 
 WebUI.click(findTestObject('Portal/Portal_StateCov_Chkbox_ExpRating'))
 
-WebUI.setText(findTestObject('Portal/Portal_StateCov_input_ExpRating'), '3.22')
+WebUI.click(findTestObject('Portal/Portal_StateCov_input_ExpRating'))
 
-WebUI.click(findTestObject('Portal/Portal_StateCov_MI_Radiobtn_WPSC_LightDutyProgram_Yes'))
-
-WebUI.click(findTestObject('Portal/Portal_StateCov_MI_Radiobtn_WPSC_MeritOrExperience_Yes'))
+WebUI.setText(findTestObject('Portal/Portal_StateCov_input_ExpRating'), '1.22')
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_StateCov_Button_NextLineCov'))
 
