@@ -6,12 +6,12 @@
    <elementGuidId>b445990d-5d43-4532-a484-6df40a8752b3</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='next']/span/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#next > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='next']/span/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>45084c9b-372c-4d21-a04e-fce605ec5c14</webElementGuid>
+      <webElementGuid>297040d5-8223-4572-bed4-dcc54fbaefeb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Next: Supplemental Questions</value>
-      <webElementGuid>e4d840a0-6074-45dd-8e51-61f490d8164d</webElementGuid>
+      <webElementGuid>478b35ed-88b2-4e1b-a1f6-5a713cd15cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;next&quot;)/span[1]/span[1]</value>
-      <webElementGuid>d7222e8a-a069-4070-b4c7-345c433f20dd</webElementGuid>
+      <webElementGuid>ec514e49-c5d0-4f88-9e9a-a046a7d41453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='next']/span/span</value>
-      <webElementGuid>5de5276c-e42b-4211-930b-0224b3542007</webElementGuid>
+      <webElementGuid>a0d9d71c-86b8-45fc-b854-e760cc18abc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[2]</value>
-      <webElementGuid>6b8dd1db-8130-4f87-886d-72f3bdd953f1</webElementGuid>
+      <webElementGuid>4a4e3710-fcac-49fc-b8cc-3bf67bc4bfc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[4]</value>
-      <webElementGuid>994e8081-ac08-46cb-8ad2-2205f73bc32b</webElementGuid>
+      <webElementGuid>62c56e74-4b26-45f2-9ca0-7cf8da4824c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'next', '&quot;', ')/span[1]/span[1]')])[1]/preceding::span[1]</value>
-      <webElementGuid>1304a3db-20a5-4c23-a3ba-bf8e754efcaf</webElementGuid>
+      <webElementGuid>5761e08b-20f7-4fcc-806f-30bba284ca1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/span/span</value>
-      <webElementGuid>54b895cc-4edc-4968-a12d-420925183048</webElementGuid>
+      <webElementGuid>e9b8a253-0592-4fc1-89c4-46d467d87d35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Next: Supplemental Questions' or . = 'Next: Supplemental Questions')]</value>
-      <webElementGuid>1314614e-55a4-4ac1-9559-5d8be2a7a789</webElementGuid>
+      <webElementGuid>1f09df2e-4543-4e2a-8900-a523328f4696</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

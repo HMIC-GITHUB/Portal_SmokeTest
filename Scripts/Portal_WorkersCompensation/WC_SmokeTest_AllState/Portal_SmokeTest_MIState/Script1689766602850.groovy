@@ -166,20 +166,31 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Button_NextStateCov'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Object Repository/Portal/Portal_Cov_Header_Coverages'), 'Step 4: Coverages', 
-    10)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Cov_Header_Coverages'), 15, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Cov_Header_Coverages'), 'Step 4: Coverages')
 
-WebUI.click(findTestObject('Portal/Portal_StateCov_Chkbox_ExpRating'))
+not_run: WebUI.click(findTestObject('Portal/Portal_StateCov_Chkbox_ExpRating'))
 
-WebUI.click(findTestObject('Portal/Portal_StateCov_input_ExpRating'))
+not_run: WebUI.click(findTestObject('Portal/Portal_StateCov_input_ExpRating'))
 
-WebUI.setText(findTestObject('Portal/Portal_StateCov_input_ExpRating'), '1.22')
+not_run: WebUI.setText(findTestObject('Portal/Portal_StateCov_input_ExpRating'), '1.22')
 
-WebUI.click(findTestObject('Object Repository/Portal/Portal_StateCov_Button_NextLineCov'))
+not_run: WebUI.click(findTestObject('Object Repository/Portal/Portal_StateCov_Button_NextLineCov'))
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues'), 10)
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues'))
+
+strTitle = WebUI.getText(findTestObject('Object Repository/Portal/Portal_Quote_Header_Quote'))
+
+if (strTitle == 'Step 4: Coverages') {
+    WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues'), 10)
+
+    WebUI.click(findTestObject('Object Repository/Portal/Portal_LineCov_button_NextSupplementalQues'))
+}
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed'), 10)
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Supplemental_CheckBox_IhaveReviewed'))
 
@@ -187,8 +198,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Button_NextQuote'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Object Repository/Portal/Portal_Quote_Header_Quote'), 'Step 6: Quote', 
-    10)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Quote_Header_Quote'), 15, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Quote_Header_Quote'), 'Step 6: Quote')
 
@@ -241,8 +251,8 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.comment('Login to PC and approve UW issues')
 
-WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_Login'), [('PC_Username') : PC_Username, ('PC_Password') : PC_Password], 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_Login'), [('PC_Username') : GlobalVariable.PC_Username
+        , ('PC_Password') : PC_Password], FailureHandling.STOP_ON_FAILURE)
 
 GlobalVariable.SubmissionNumber = SubmissionNumber.replace('Quote No. ', '')
 
@@ -255,12 +265,14 @@ WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_RiskAnalysisScreen_ApproveUWIssues'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_ReleaseLock'), FailureHandling.OPTIONAL)
+if (WebUI.verifyElementPresent(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_ReleaseLock'), 10, FailureHandling.OPTIONAL)) {
+    WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_Button_ReleaseLock'), FailureHandling.OPTIONAL)
 
-WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_UWActivity_Dropdown_AssignTo'), 'Test Processor3 (Renewal Com Proc)', 
-    false, FailureHandling.OPTIONAL)
+    WebUI.selectOptionByLabel(findTestObject('PolicyCenterObjects (1)/PC_UWActivity_Dropdown_AssignTo'), 'Test Processor3 (Renewal Com Proc)', 
+        false, FailureHandling.OPTIONAL)
 
-WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_UWActivity_Button_Release'), FailureHandling.OPTIONAL)
+    WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_UWActivity_Button_Release'), FailureHandling.OPTIONAL)
+}
 
 WebUI.takeFullPageScreenshot()
 
@@ -316,6 +328,8 @@ WebUI.setText(findTestObject('Portal/Portal_Payment_TextBox_AgentPhoneNum'), '85
 WebUI.click(findTestObject('Portal/Portal_Payment_Button_Submit'))
 
 not_run: WebUI.verifyElementText(findTestObject('Portal/Portal_SubSuccess_Label_ApplicationIssued'), 'This application has been issued. Please contact your underwriter with questions.')
+
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_SubSuccess_Label_PolNum'), 30)
 
 String polNum = WebUI.getText(findTestObject('Portal/Portal_SubSuccess_Label_PolNum'))
 
