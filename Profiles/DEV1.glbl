@@ -6,12 +6,12 @@
    <defaultProfile>false</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'https://qaservices.hastingsmutual.com/Authentication/Login?ReturnUrl=https://policycenter.dev1.hastingsmutual.com/pc/service/ssosaml'</initValue>
+      <initValue>'https://policycenter.dev1.hastingsmutual.com/pc/PolicyCenter.do'</initValue>
       <name>URL</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'testuwsup2'</initValue>
+      <initValue>'testuwsup3'</initValue>
       <name>PC_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -66,7 +66,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'adminuser2059'</initValue>
+      <initValue>'testagentall1'</initValue>
       <name>Portal_Username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

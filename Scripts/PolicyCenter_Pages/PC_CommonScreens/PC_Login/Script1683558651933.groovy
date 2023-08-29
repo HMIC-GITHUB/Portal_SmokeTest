@@ -31,9 +31,9 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/PolicyCenter_Login/div_PC_Login_Link_ClickHereToLogin'), FailureHandling.OPTIONAL)
 
-WebUI.setText(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_TextBox_UserName'), PC_Username)
+WebUI.setText(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_TextBox_UserName'), GlobalVariable.PC_Username)
 
-WebUI.setText(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_TextBox_Password'), PC_Password)
+WebUI.setText(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_TextBox_Password'), GlobalVariable.PC_Password)
 
 WebUI.takeFullPageScreenshot()
 
