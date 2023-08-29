@@ -84,4 +84,9 @@
       <initValue>''</initValue>
       <name>SubmissionStatus</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'DEV1'</initValue>
+      <name>Environment</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

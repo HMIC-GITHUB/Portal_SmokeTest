@@ -79,4 +79,9 @@
       <initValue>'$175'</initValue>
       <name>Cook_County_Premium</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'QA4'</initValue>
+      <name>Environment</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
