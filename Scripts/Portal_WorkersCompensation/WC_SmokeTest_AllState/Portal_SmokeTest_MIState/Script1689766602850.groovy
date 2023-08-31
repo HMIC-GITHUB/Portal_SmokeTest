@@ -67,7 +67,7 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_Button_Creat
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc'), 'Add a New Account')
 
-WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'), FailureHandling.STOP_ON_FAILURE)
+//WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Portal/Portal_AccInfo_TextBox_Address'), '1618 W M 43 Hwy')
 
