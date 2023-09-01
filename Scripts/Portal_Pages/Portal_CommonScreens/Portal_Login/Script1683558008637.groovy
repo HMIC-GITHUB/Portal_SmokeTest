@@ -37,13 +37,13 @@ WebUI.setText(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Logi
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.waitForElementVisible(findTestObject('PolicyCenter_Login/input_PC_Login_Button_Login'), 20)
+WebUI.waitForElementPresent(findTestObject('PolicyCenter_Login/input_PC_Login_Button_Login'), 20)
 
 WebUI.click(findTestObject('Object Repository/PolicyCenter_Login/input_PC_Login_Button_Login'))
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.waitForElementVisible(findTestObject('Portal/Portal_Common_Header_SearchForAccOrPol'), 30)
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_Common_Header_SearchForAccOrPol'), 30)
 
 WebUI.verifyElementVisible(findTestObject('Portal/Portal_Common_Header_SearchForAccOrPol'))
 

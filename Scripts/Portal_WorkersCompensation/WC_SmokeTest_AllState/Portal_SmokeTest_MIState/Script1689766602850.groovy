@@ -44,8 +44,7 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_PreQual_CheckBox_Ris
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_PreQual_Button_Agree'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Object Repository/Portal/Portal_AccInfo_Header_AccInfo'), 'Step 1: Account Information', 
-    10)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_AccInfo_Header_AccInfo'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_AccInfo_Header_AccInfo'), 'Step 1: Account Information')
 
@@ -68,7 +67,6 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_Button_Creat
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc'), 'Add a New Account')
 
 //WebUI.mouseOver(findTestObject('Object Repository/Portal/Portal_AccountInfo_Dropdown_ProducerCode'), FailureHandling.STOP_ON_FAILURE)
-
 WebUI.setText(findTestObject('Object Repository/Portal/Portal_AccInfo_TextBox_Address'), '1618 W M 43 Hwy')
 
 WebUI.sendKeys(findTestObject('Object Repository/Portal/Portal_AccInfo_TextBox_Address'), Keys.chord(Keys.SPACE))
@@ -141,8 +139,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Button_NextLoc'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Object Repository/Portal/Portal_Loc_Header_Loc'), 'Step 3: Locations', 
-    10)
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Loc_Header_Loc'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Loc_Header_Loc'), 'Step 3: Locations')
 
@@ -299,7 +296,7 @@ WebUI.click(findTestObject('Portal/Portal_Quote_Table_QuoteNum', [('SubmissionNu
 
 WebUI.takeFullPageScreenshot()
 
-WebUI.waitForElementHasAttribute(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 8: Review', 10)
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_Common_Label_Header'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 8: Review')
 
@@ -307,7 +304,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Portal/Portal_Common_Button_NextPayment'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 9: Payment', 10)
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_Common_Label_Header'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 9: Payment')
 
