@@ -26,6 +26,8 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Tab_Quote'))
 
 WebUI.comment('User is able to Initiate the quote successfully')
 
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard'), 30)
+
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard'), 'New Business Dashboard')
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Quote_Title_StartANewBusiness'))
@@ -35,6 +37,8 @@ WebUI.click(findTestObject('Object Repository/Portal/Portal_Quote_Dropdown_Selec
 WebUI.click(findTestObject('Object Repository/Portal/Portal_LOB_TypeList_WorkersComp'))
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Button_Next'))
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_PreQual_Title_PreQualification'), 30)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_PreQual_Title_PreQualification'), 'Pre-Qualification')
 
@@ -63,6 +67,8 @@ WebUI.setText(findTestObject('Object Repository/Portal/Portal_AccInfo_TextBox_La
 WebUI.setText(findTestObject('Object Repository/Portal/Portal_AccInfo_TextBox_ZipCode'), '49058')
 
 WebUI.click(findTestObject('Object Repository/Portal/Portal_AccInfo_Button_CreateNewAcc'))
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc'), 30)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_AccInfo_SubTitle_AddNewAcc'), 'Add a New Account')
 
@@ -209,7 +215,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Portal/Portal_Quote_Button_NextAdditionalInfo'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 7: Additional Info', 10)
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_Common_Label_Header'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 7: Additional Info')
 
@@ -236,7 +242,7 @@ WebUI.takeFullPageScreenshot()
 
 WebUI.click(findTestObject('Portal/Portal_Common_Button_NextReview'))
 
-WebUI.waitForElementHasAttribute(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 8: Review', 10)
+WebUI.waitForElementPresent(findTestObject('Portal/Portal_Common_Label_Header'), 30, FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementText(findTestObject('Portal/Portal_Common_Label_Header'), 'Step 8: Review')
 
@@ -257,6 +263,8 @@ WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_SearchSu
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('PolicyCenterObjects (1)/PC_Common_LeftPanel_RiskAnalysis'))
+
+WebUI.waitForElementPresent(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 30)
 
 WebUI.verifyElementText(findTestObject('PolicyCenterObjects (1)/PC_Common_Label_Title'), 'Risk Analysis')
 
@@ -281,6 +289,8 @@ WebUI.callTestCase(findTestCase('Portal_Pages/Portal_CommonScreens/Portal_Login'
 WebUI.click(findTestObject('Object Repository/Portal/Portal_Common_Tab_Quote'))
 
 WebUI.comment('User should able to search the quote in Portal')
+
+WebUI.waitForElementPresent(findTestObject('Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard'), 30)
 
 WebUI.verifyElementText(findTestObject('Object Repository/Portal/Portal_Quote_Header_NewBusinessDashboard'), 'New Business Dashboard')
 
