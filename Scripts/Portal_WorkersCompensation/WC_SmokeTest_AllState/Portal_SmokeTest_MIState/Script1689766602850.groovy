@@ -252,6 +252,8 @@ String SubmissionNumber = GlobalVariable.SubmissionNumber
 
 WebUI.takeFullPageScreenshot()
 
+WebUI.closeBrowser()
+
 WebUI.comment('Login to PC and approve UW issues')
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_Login'), [('PC_Username') : GlobalVariable.PC_Username
@@ -282,6 +284,8 @@ if (WebUI.verifyElementPresent(findTestObject('PolicyCenterObjects (1)/PC_Common
 WebUI.takeFullPageScreenshot()
 
 WebUI.callTestCase(findTestCase('PolicyCenter_Pages/PC_CommonScreens/PC_LogOut'), [:], FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
 
 WebUI.callTestCase(findTestCase('Portal_Pages/Portal_CommonScreens/Portal_Login'), [('Portal_Username') : GlobalVariable.Portal_Username
         , ('Portal_Password') : GlobalVariable.Portal_Password], FailureHandling.STOP_ON_FAILURE)
